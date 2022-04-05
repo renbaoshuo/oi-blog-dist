@@ -1,0 +1,2 @@
+/*! Baoshuo's OI Blog | Build: b3aa5a0 | Baoshuo ( https://baoshuo.ren ) */
+"use strict";(e=>{var t=t=>e.getElementById(t);const s=t("tocMask"),l=t("tocToggler"),c=t("toc");if(l){const o={block:"none",none:"block"};[s,l,c].map(t=>t.addEventListener("click",()=>{s.style.display=o[s.style.display],c.style.display=o[c.style.display]}))}})(document);
