@@ -1,2 +1,2 @@
-/*! Baoshuo's OI Blog | Build: dff3716 | Baoshuo ( https://baoshuo.ren ) */
-"use strict";(e=>{var t=t=>e.getElementById(t);const s=t("tocMask"),l=t("tocToggler"),c=t("toc");if(l){const o={block:"none",none:"block"};[s,l,c].map(t=>t.addEventListener("click",()=>{s.style.display=o[s.style.display],c.style.display=o[c.style.display]}))}})(document);
+/*! Baoshuo's OI Blog | Build: 1265ed0 | Baoshuo ( https://baoshuo.ren ) */
+"use strict";!function(n){function t(t){return n.getElementById(t)}var e,c=t("tocMask"),l=t("tocToggler"),o=t("toc");l&&(e={block:"none",none:"block"},[c,l,o].map(function(t){return t.addEventListener("click",function(){c.style.display=e[c.style.display],o.style.display=e[o.style.display]})}))}(document);
