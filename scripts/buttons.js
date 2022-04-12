@@ -1,2 +1,2 @@
-/*! Baoshuo's OI Blog | Build: 9e0e8c5 | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog | Build: acb4fd5 | Baoshuo ( https://baoshuo.ren ) */
 "use strict";!function(n){function t(t){return n.getElementById(t)}var e,c=t("tocMask"),l=t("tocToggler"),o=t("toc");l&&(e={block:"none",none:"block"},[c,l,o].map(function(t){return t.addEventListener("click",function(){c.style.display=e[c.style.display],o.style.display=e[o.style.display]})}))}(document);
