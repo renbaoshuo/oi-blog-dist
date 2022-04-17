@@ -149,6 +149,7 @@ https://oi.baoshuo.ren/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/index.html
 https://oi.baoshuo.ren/tags/%E6%A0%88/index.html
 https://oi.baoshuo.ren/tags/%E6%89%AB%E6%8F%8F%E7%BA%BF/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/index.html
+https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/index.html
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/index.html
 https://oi.baoshuo.ren/tags/Prim/index.html
 https://oi.baoshuo.ren/tags/Kruskal/index.html
@@ -157,7 +158,6 @@ https://oi.baoshuo.ren/tags/Tarjan/index.html
 https://oi.baoshuo.ren/tags/Floyd/index.html
 https://oi.baoshuo.ren/tags/Bellman-Ford/index.html
 https://oi.baoshuo.ren/tags/SPFA/index.html
-https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/index.html
 https://oi.baoshuo.ren/categories/index.html
 https://oi.baoshuo.ren/search/index.html
 https://oi.baoshuo.ren/tags/index.html

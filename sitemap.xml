@@ -146,6 +146,24 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/notes/ds/fhq-treap/</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/notes/ds/persistent-segment-tree/</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/notes/graph/max-flow/</loc>
     
     <lastmod>2022-03-30</lastmod>
@@ -165,24 +183,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/notes/graph/shortest-path/</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/notes/ds/fhq-treap/</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/notes/ds/persistent-segment-tree/</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -805,6 +805,13 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/</loc>
+    <lastmod>2022-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
     <lastmod>2022-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -855,13 +862,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/SPFA/</loc>
-    <lastmod>2022-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/</loc>
     <lastmod>2022-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
