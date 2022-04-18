@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p8289/</loc>
+    <loc>https://oi.baoshuo.ren/plans/2022-04/</loc>
     
     <lastmod>2022-04-18</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/plans/2022-04/</loc>
+    <loc>https://oi.baoshuo.ren/solutions/luogu-p8289/</loc>
     
-    <lastmod>2022-04-13</lastmod>
+    <lastmod>2022-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
