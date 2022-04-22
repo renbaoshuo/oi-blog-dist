@@ -1,2 +1,2 @@
-/*! Baoshuo's OI Blog | Build: 52e96cb | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog | Build: 35b586d | Baoshuo ( https://baoshuo.ren ) */
 "use strict";setTimeout(function(){"serviceWorker"in navigator&&location.hostname.includes("oi.baoshuo.ren")&&navigator.serviceWorker.register("/sw.js")},3e3);
