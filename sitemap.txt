@@ -78,6 +78,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/notes/math/exgcd/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1516/index.html
 https://oi.baoshuo.ren/solutions/luogu-p8289/index.html
 https://oi.baoshuo.ren/plans/2022-04/index.html
@@ -238,6 +239,8 @@ https://oi.baoshuo.ren/tags/Tarjan/index.html
 https://oi.baoshuo.ren/tags/Floyd/index.html
 https://oi.baoshuo.ren/tags/Bellman-Ford/index.html
 https://oi.baoshuo.ren/tags/SPFA/index.html
+https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/index.html
+https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/index.html
 https://oi.baoshuo.ren/categories/index.html
 https://oi.baoshuo.ren/search/index.html
 https://oi.baoshuo.ren/tags/index.html
