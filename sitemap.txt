@@ -78,6 +78,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/notes/math/crt/index.html
 https://oi.baoshuo.ren/notes/math/exgcd/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1516/index.html
 https://oi.baoshuo.ren/solutions/luogu-p8289/index.html
@@ -179,6 +180,7 @@ https://oi.baoshuo.ren/page/6/index.html
 https://oi.baoshuo.ren/page/7/index.html
 https://oi.baoshuo.ren/page/8/index.html
 https://oi.baoshuo.ren/page/9/index.html
+https://oi.baoshuo.ren/page/10/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/index.html
 https://oi.baoshuo.ren/tags/SQL/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/index.html
@@ -240,6 +242,7 @@ https://oi.baoshuo.ren/tags/Floyd/index.html
 https://oi.baoshuo.ren/tags/Bellman-Ford/index.html
 https://oi.baoshuo.ren/tags/SPFA/index.html
 https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/index.html
+https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/index.html
 https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/index.html
 https://oi.baoshuo.ren/categories/index.html
 https://oi.baoshuo.ren/search/index.html
