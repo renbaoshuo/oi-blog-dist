@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/about/index.html</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/plans/2022-04/</loc>
     
     <lastmod>2022-04-25</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/notes/math/exgcd/</loc>
-    
-    <lastmod>2022-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/about/index.html</loc>
     
     <lastmod>2022-04-24</lastmod>
     
