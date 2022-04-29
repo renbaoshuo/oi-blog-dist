@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oi.baoshuo.ren/friends/index.html</loc>
+    <loc>https://oi.baoshuo.ren/about/index.html</loc>
     
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/about/index.html</loc>
+    <loc>https://oi.baoshuo.ren/friends/index.html</loc>
     
-    <lastmod>2022-04-25</lastmod>
+    <lastmod>2022-04-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
