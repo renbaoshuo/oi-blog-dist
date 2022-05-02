@@ -1,0 +1,3 @@
+/*! Baoshuo's OI Blog | Build: 69b218b | Baoshuo ( https://baoshuo.ren ) */
+/* scripts/buttons.js */
+!function(e){var a=function(a){return e.getElementById(a)},c=a("tocMask"),b=a("tocToggler"),d=a("toc");if(b){var f={block:"none",none:"block"},g=function(){c.style.display=f[c.style.display],d.style.display=f[d.style.display]};[c,b,d].map(function(a){return a.addEventListener("click",g)})}}(document)
