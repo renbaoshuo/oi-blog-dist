@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/solutions/luogu-p2158/</loc>
+    
+    <lastmod>2022-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/solutions/poj-3090/</loc>
+    
+    <lastmod>2022-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/about/index.html</loc>
     
     <lastmod>2022-05-03</lastmod>
@@ -293,15 +311,6 @@
     <loc>https://oi.baoshuo.ren/solutions/s2oj-90/</loc>
     
     <lastmod>2021-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2158/</loc>
-    
-    <lastmod>2021-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -837,6 +846,13 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</loc>
+    <lastmod>2022-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/</loc>
     <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
