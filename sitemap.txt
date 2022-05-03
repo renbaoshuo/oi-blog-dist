@@ -52,9 +52,9 @@ https://oi.baoshuo.ren/s2oj-1034/index.html
 https://oi.baoshuo.ren/solution-s2oj-1034/index.html
 https://oi.baoshuo.ren/s2oj-1036/index.html
 https://oi.baoshuo.ren/solution-s2oj-1036/index.html
-https://oi.baoshuo.ren/s2oj-1230/index.html
 https://oi.baoshuo.ren/s2oj-1199/index.html
 https://oi.baoshuo.ren/solution-s2oj-1199/index.html
+https://oi.baoshuo.ren/s2oj-1230/index.html
 https://oi.baoshuo.ren/s2oj-1238/index.html
 https://oi.baoshuo.ren/s2oj-1256/index.html
 https://oi.baoshuo.ren/s2oj-217/index.html
@@ -249,9 +249,9 @@ https://oi.baoshuo.ren/tags/Tarjan/index.html
 https://oi.baoshuo.ren/tags/Floyd/index.html
 https://oi.baoshuo.ren/tags/Bellman-Ford/index.html
 https://oi.baoshuo.ren/tags/SPFA/index.html
-https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.html
 https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/index.html
+https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/index.html
 https://oi.baoshuo.ren/categories/index.html
 https://oi.baoshuo.ren/search/index.html
 https://oi.baoshuo.ren/tags/index.html
