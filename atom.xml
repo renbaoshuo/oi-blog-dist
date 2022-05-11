@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-11T11:12:34.000Z</updated>
+  <updated>2022-05-11T13:53:36.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AtCoder - AGC048B Bracket Score</title>
+    <link href="https://oi.baoshuo.ren/solutions/atcoder-agc048b/"/>
+    <id>https://oi.baoshuo.ren/solutions/atcoder-agc048b/</id>
+    <published>2022-05-11T21:52:43.000Z</published>
+    <updated>2022-05-11T13:53:36.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="AtCoder" scheme="https://oi.baoshuo.ren/tags/AtCoder/"/>
+    
+    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>Codeforces - 1675D. Vertical Paths</title>
@@ -454,33 +473,6 @@
     <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
     
     <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3391 【模板】文艺平衡树</title>
-    <link href="https://oi.baoshuo.ren/solutions/luogu-p3391/"/>
-    <id>https://oi.baoshuo.ren/solutions/luogu-p3391/</id>
-    <published>2022-03-02T20:55:32.000Z</published>
-    <updated>2022-03-02T20:55:32.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
-    
-    <category term="S2OJ" scheme="https://oi.baoshuo.ren/tags/S2OJ/"/>
-    
-    <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
-    
-    <category term="平衡树" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
     
   </entry>
   
