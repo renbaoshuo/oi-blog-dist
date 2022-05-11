@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-09T08:49:10.000Z</updated>
+  <updated>2022-05-11T11:12:06.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Codeforces - 1675D. Vertical Paths</title>
+    <link href="https://oi.baoshuo.ren/codeforces-1675d/"/>
+    <id>https://oi.baoshuo.ren/codeforces-1675d/</id>
+    <published>2022-05-11T19:11:47.000Z</published>
+    <updated>2022-05-11T11:12:06.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="Codeforces" scheme="https://oi.baoshuo.ren/tags/Codeforces/"/>
+    
+    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="树" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>BZOJ - 1013. 球形空间产生器</title>
@@ -358,9 +379,9 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
     <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
@@ -456,29 +477,6 @@
     <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
     
     <category term="S2OJ" scheme="https://oi.baoshuo.ren/tags/S2OJ/"/>
-    
-    <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
-    
-    <category term="平衡树" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>无旋 Treap 学习笔记</title>
-    <link href="https://oi.baoshuo.ren/notes/ds/fhq-treap/"/>
-    <id>https://oi.baoshuo.ren/notes/ds/fhq-treap/</id>
-    <published>2022-02-18T15:27:40.000Z</published>
-    <updated>2022-02-18T15:27:40.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;无旋 Treap，又名 FHQ-Treap。无旋 Treap 仅有两种核心操作 —— 分裂与合并，它依靠这两种操作来维护树的平衡，从而省去了旋转操作。这种操作方式使得它天生支持维护序列、可持久化等特性。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
     
