@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/friends/index.html</loc>
+    
+    <lastmod>2022-05-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/about/index.html</loc>
     
     <lastmod>2022-05-13</lastmod>
@@ -113,15 +122,6 @@
     <loc>https://oi.baoshuo.ren/solutions/luogu-p2158/</loc>
     
     <lastmod>2022-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/friends/index.html</loc>
-    
-    <lastmod>2022-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
