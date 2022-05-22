@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-21T13:45:05.000Z</updated>
+  <updated>2022-05-22T12:33:44.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>S2OJ - 1426. 【2022.5.21 联考】空</title>
+    <link href="https://oi.baoshuo.ren/solutions/s2oj-1426/"/>
+    <id>https://oi.baoshuo.ren/solutions/s2oj-1426/</id>
+    <published>2022-05-22T20:33:21.000Z</published>
+    <updated>2022-05-22T12:33:44.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="S2OJ" scheme="https://oi.baoshuo.ren/tags/S2OJ/"/>
+    
+    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P2261 [CQOI2007] 余数求和</title>
@@ -102,10 +121,10 @@
   
   <entry>
     <title>POJ - 3696. 最幸运的数字</title>
-    <link href="https://oi.baoshuo.ren/poj-3696/"/>
-    <id>https://oi.baoshuo.ren/poj-3696/</id>
+    <link href="https://oi.baoshuo.ren/solutions/poj-3696/"/>
+    <id>https://oi.baoshuo.ren/solutions/poj-3696/</id>
     <published>2022-05-08T21:59:17.000Z</published>
-    <updated>2022-05-08T13:59:32.000Z</updated>
+    <updated>2022-05-08T21:59:17.000Z</updated>
     
     
     
@@ -113,13 +132,13 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
-    
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
-    
     <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
+    
+    <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
+    
+    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
     
     <category term="欧拉定理" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
     
@@ -208,13 +227,13 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
-    
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
-    
     <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
+    
+    <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
+    
+    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
     
     <category term="中国剩余定理" scheme="https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
     
@@ -237,9 +256,9 @@
     
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
-    
     <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
+    
+    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
     
     <category term="中国剩余定理" scheme="https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
     
@@ -262,9 +281,9 @@
     
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
-    
     <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
     
     <category term="逆元" scheme="https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/"/>
     
@@ -285,9 +304,9 @@
     
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
-    <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
-    
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
     
     <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
     
@@ -449,28 +468,6 @@
     <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
     <category term="最大流" scheme="https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学考自救指北 —— SQL 篇</title>
-    <link href="https://oi.baoshuo.ren/xuekao-sql/"/>
-    <id>https://oi.baoshuo.ren/xuekao-sql/</id>
-    <published>2022-03-11T20:35:28.000Z</published>
-    <updated>2022-04-19T13:31:55.000Z</updated>
-    
-    
-    <summary type="html">本文讲述了一些 SQL 的基础知识，希望能帮助大家在学考中获得更好的成绩。
-</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="学考" scheme="https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/"/>
-    
-    <category term="SQL" scheme="https://oi.baoshuo.ren/tags/SQL/"/>
     
   </entry>
   
