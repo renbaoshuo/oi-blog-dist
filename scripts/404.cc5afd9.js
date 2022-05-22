@@ -1,2 +1,2 @@
-/*! Baoshuo's OI Blog (22efbed) | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog (637e7cf) | Baoshuo ( https://baoshuo.ren ) */
 /[A-Z]/g.test(location.pathname)&&(location.pathname=location.pathname.toLowerCase());
