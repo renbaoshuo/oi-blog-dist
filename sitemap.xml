@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1426/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1426/</loc>
     
     <lastmod>2022-05-22</lastmod>
     
@@ -11,27 +11,36 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2261/</loc>
+    <loc>https://oi.baoshuo.ren/2022-04/</loc>
     
-    <lastmod>2022-05-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/plans/2022-05/</loc>
-    
-    <lastmod>2022-05-21</lastmod>
+    <lastmod>2022-05-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/codeforces-1675d/</loc>
+    <loc>https://oi.baoshuo.ren/2022-05/</loc>
     
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/luogu-p2158/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/luogu-p2261/</loc>
+    
+    <lastmod>2022-05-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/atcoder-agc048b/</loc>
+    <loc>https://oi.baoshuo.ren/atcoder-agc048b/</loc>
     
     <lastmod>2022-05-11</lastmod>
     
@@ -65,7 +74,16 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/bzoj-1013/</loc>
+    <loc>https://oi.baoshuo.ren/codeforces-1675d/</loc>
+    
+    <lastmod>2022-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/bzoj-1013/</loc>
     
     <lastmod>2022-05-09</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/poj-3696/</loc>
+    <loc>https://oi.baoshuo.ren/poj-3696/</loc>
     
     <lastmod>2022-05-08</lastmod>
     
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/math/gauss/</loc>
+    <loc>https://oi.baoshuo.ren/gauss/</loc>
     
     <lastmod>2022-05-07</lastmod>
     
@@ -101,34 +119,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/math/matrix/</loc>
-    
-    <lastmod>2022-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/plans/2022-04/</loc>
-    
-    <lastmod>2022-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/notes/math/exgcd/</loc>
-    
-    <lastmod>2022-05-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/solutions/poj-3090/</loc>
+    <loc>https://oi.baoshuo.ren/poj-3090/</loc>
     
     <lastmod>2022-05-03</lastmod>
     
@@ -137,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2158/</loc>
-    
-    <lastmod>2022-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/solutions/poj-1006/</loc>
+    <loc>https://oi.baoshuo.ren/matrix/</loc>
     
     <lastmod>2022-05-02</lastmod>
     
@@ -155,7 +137,16 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/math/crt/</loc>
+    <loc>https://oi.baoshuo.ren/poj-1006/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/crt/</loc>
     
     <lastmod>2022-04-24</lastmod>
     
@@ -164,7 +155,16 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1516/</loc>
+    <loc>https://oi.baoshuo.ren/exgcd/</loc>
+    
+    <lastmod>2022-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/luogu-p1516/</loc>
     
     <lastmod>2022-04-22</lastmod>
     
@@ -182,16 +182,16 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p8289/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p8289/</loc>
     
-    <lastmod>2022-04-18</lastmod>
+    <lastmod>2022-04-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1541/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p1541/</loc>
     
     <lastmod>2022-03-29</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2389/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2389/</loc>
     
     <lastmod>2022-03-23</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2045/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2045/</loc>
     
     <lastmod>2022-03-22</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2774/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2774/</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2891/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2891/</loc>
     
     <lastmod>2022-03-19</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/graph/max-flow/</loc>
+    <loc>https://oi.baoshuo.ren/max-flow/</loc>
     
     <lastmod>2022-03-13</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1486/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p1486/</loc>
     
     <lastmod>2022-03-07</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p3391/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p3391/</loc>
     
     <lastmod>2022-03-02</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/ds/fhq-treap/</loc>
+    <loc>https://oi.baoshuo.ren/fhq-treap/</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1256/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1256/</loc>
     
     <lastmod>2022-02-13</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1238/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1238/</loc>
     
     <lastmod>2022-02-11</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1230/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1230/</loc>
     
     <lastmod>2022-01-21</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/libreoj-2759/</loc>
+    <loc>https://oi.baoshuo.ren/libreoj-2759/</loc>
     
     <lastmod>2022-01-16</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/graph/scc/</loc>
+    <loc>https://oi.baoshuo.ren/scc/</loc>
     
     <lastmod>2021-12-31</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1199/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1199/</loc>
     
     <lastmod>2021-12-27</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/ds/persistent-segment-tree/</loc>
+    <loc>https://oi.baoshuo.ren/persistent-segment-tree/</loc>
     
     <lastmod>2021-12-24</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/libreoj-2130/</loc>
+    <loc>https://oi.baoshuo.ren/libreoj-2130/</loc>
     
     <lastmod>2021-12-05</lastmod>
     
@@ -344,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/libreoj-2633/</loc>
+    <loc>https://oi.baoshuo.ren/libreoj-2633/</loc>
     
     <lastmod>2021-11-19</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/csp-j-2021/</loc>
+    <loc>https://oi.baoshuo.ren/csp-j-2021/</loc>
     
     <lastmod>2021-11-15</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1004/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p1004/</loc>
     
     <lastmod>2021-11-11</lastmod>
     
@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p7913/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p7913/</loc>
     
     <lastmod>2021-10-29</lastmod>
     
@@ -380,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-90/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-90/</loc>
     
     <lastmod>2021-10-21</lastmod>
     
@@ -389,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1036/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1036/</loc>
     
     <lastmod>2021-10-01</lastmod>
     
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1034/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1034/</loc>
     
     <lastmod>2021-09-30</lastmod>
     
@@ -407,7 +407,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-1024/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-1024/</loc>
     
     <lastmod>2021-09-27</lastmod>
     
@@ -416,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/graph/minimum-spanning-tree/</loc>
+    <loc>https://oi.baoshuo.ren/minimum-spanning-tree/</loc>
     
     <lastmod>2021-08-27</lastmod>
     
@@ -425,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/graph/shortest-path/</loc>
+    <loc>https://oi.baoshuo.ren/shortest-path/</loc>
     
     <lastmod>2021-08-12</lastmod>
     
@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/</loc>
+    <loc>https://oi.baoshuo.ren/xjoi-3rd-turing-cup/</loc>
     
     <lastmod>2021-08-09</lastmod>
     
@@ -443,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2412/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2412/</loc>
     
     <lastmod>2021-07-04</lastmod>
     
@@ -452,7 +452,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-441/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-441/</loc>
     
     <lastmod>2021-07-02</lastmod>
     
@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-438/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-438/</loc>
     
     <lastmod>2021-07-01</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p2234/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p2234/</loc>
     
     <lastmod>2021-01-03</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/s2oj-217/</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-217/</loc>
     
     <lastmod>2021-01-02</lastmod>
     
@@ -488,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p3879/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p3879/</loc>
     
     <lastmod>2020-12-30</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/noip-2020/</loc>
+    <loc>https://oi.baoshuo.ren/noip-2020/</loc>
     
     <lastmod>2020-12-05</lastmod>
     
@@ -506,7 +506,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/notes/ds/segment-tree/</loc>
+    <loc>https://oi.baoshuo.ren/segment-tree/</loc>
     
     <lastmod>2020-12-02</lastmod>
     
@@ -515,7 +515,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/csp-j-2020/</loc>
+    <loc>https://oi.baoshuo.ren/csp-j-2020/</loc>
     
     <lastmod>2020-11-16</lastmod>
     
@@ -524,7 +524,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/nowcoder-contest-7612/</loc>
+    <loc>https://oi.baoshuo.ren/nowcoder-contest-7612/</loc>
     
     <lastmod>2020-10-29</lastmod>
     
@@ -533,7 +533,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-cf1433a/</loc>
+    <loc>https://oi.baoshuo.ren/codeforces-1433a/</loc>
     
     <lastmod>2020-10-22</lastmod>
     
@@ -542,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/nowcoder-contest-7606/</loc>
+    <loc>https://oi.baoshuo.ren/nowcoder-contest-7606/</loc>
     
     <lastmod>2020-10-20</lastmod>
     
@@ -551,7 +551,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1200/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p1200/</loc>
     
     <lastmod>2020-10-12</lastmod>
     
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p1724/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p1724/</loc>
     
     <lastmod>2020-10-04</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p4994/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p4994/</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p5738/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p5738/</loc>
     
     <lastmod>2020-09-22</lastmod>
     
@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p5660/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p5660/</loc>
     
     <lastmod>2020-09-13</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/solutions/luogu-p5661/</loc>
+    <loc>https://oi.baoshuo.ren/luogu-p5661/</loc>
     
     <lastmod>2019-11-30</lastmod>
     
@@ -621,20 +621,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/SQL/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/</loc>
@@ -707,6 +693,13 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -715,6 +708,27 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E6%A0%91/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -735,14 +749,35 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Treap/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -805,28 +840,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/Treap/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/STL/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -931,14 +945,28 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Prim/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Kruskal/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -952,21 +980,14 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/POJ/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1022,41 +1043,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/Prim/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/Kruskal/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1092,20 +1078,27 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/SQL/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://oi.baoshuo.ren/categories/%E8%AE%A1%E5%88%92/</loc>
@@ -1116,6 +1109,13 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
