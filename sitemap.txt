@@ -7,10 +7,10 @@ https://oi.baoshuo.ren/solution-libreoj-2633/index.html
 https://oi.baoshuo.ren/libreoj-2759/index.html
 https://oi.baoshuo.ren/solution-luogu-cf1433a/index.html
 https://oi.baoshuo.ren/luogu-cf1433a/index.html
-https://oi.baoshuo.ren/luogu-p1004/index.html
-https://oi.baoshuo.ren/solution-luogu-p1004/index.html
 https://oi.baoshuo.ren/luogu-p1200/index.html
 https://oi.baoshuo.ren/solution-luogu-p1200/index.html
+https://oi.baoshuo.ren/luogu-p1004/index.html
+https://oi.baoshuo.ren/solution-luogu-p1004/index.html
 https://oi.baoshuo.ren/luogu-p1486/index.html
 https://oi.baoshuo.ren/luogu-p1541/index.html
 https://oi.baoshuo.ren/luogu-p1724/index.html
