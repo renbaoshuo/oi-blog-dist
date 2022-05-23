@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-22T20:33:21.000Z</updated>
+  <updated>2022-05-23T13:27:39.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P5596 【XR-4】题</title>
+    <link href="https://oi.baoshuo.ren/luogu-p5596/"/>
+    <id>https://oi.baoshuo.ren/luogu-p5596/</id>
+    <published>2022-05-23T21:26:36.000Z</published>
+    <updated>2022-05-23T13:27:39.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="推式子" scheme="https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/"/>
+    
+  </entry>
   
   <entry>
     <title>S2OJ - 1426. 【2022.5.21 联考】空</title>
@@ -441,29 +460,6 @@
     <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-    <category term="最大流" scheme="https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>最大流学习笔记</title>
-    <link href="https://oi.baoshuo.ren/max-flow/"/>
-    <id>https://oi.baoshuo.ren/max-flow/</id>
-    <published>2022-03-13T21:11:26.000Z</published>
-    <updated>2022-03-13T21:11:26.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;最大流问题是求解图上从源点流向汇点的最大流量的问题。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
     
     <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
