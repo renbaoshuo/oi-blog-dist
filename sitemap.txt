@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/tree-divide/index.html
 https://oi.baoshuo.ren/luogu-p5596/index.html
 https://oi.baoshuo.ren/s2oj-1426/index.html
 https://oi.baoshuo.ren/luogu-p2261/index.html
@@ -265,6 +266,9 @@ https://oi.baoshuo.ren/tags/Tarjan/index.html
 https://oi.baoshuo.ren/tags/Floyd/index.html
 https://oi.baoshuo.ren/tags/Bellman-Ford/index.html
 https://oi.baoshuo.ren/tags/SPFA/index.html
+https://oi.baoshuo.ren/tags/%E6%A0%91%E5%88%86%E6%B2%BB/index.html
+https://oi.baoshuo.ren/tags/%E7%82%B9%E5%88%86%E6%B2%BB/index.html
+https://oi.baoshuo.ren/tags/%E5%88%86%E6%B2%BB/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/index.html
 https://oi.baoshuo.ren/tags/SQL/index.html

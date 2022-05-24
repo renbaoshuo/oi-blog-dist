@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-23T13:27:39.000Z</updated>
+  <updated>2022-05-24T13:41:24.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>点分治学习笔记</title>
+    <link href="https://oi.baoshuo.ren/tree-divide/"/>
+    <id>https://oi.baoshuo.ren/tree-divide/</id>
+    <published>2022-05-24T21:38:57.000Z</published>
+    <updated>2022-05-24T13:41:24.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;点分治是用来解决树上路径问题的一种方法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="树分治" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91%E5%88%86%E6%B2%BB/"/>
+    
+    <category term="点分治" scheme="https://oi.baoshuo.ren/tags/%E7%82%B9%E5%88%86%E6%B2%BB/"/>
+    
+    <category term="分治" scheme="https://oi.baoshuo.ren/tags/%E5%88%86%E6%B2%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P5596 【XR-4】题</title>
@@ -441,29 +466,6 @@
     <category term="最大流" scheme="https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/"/>
     
     <category term="网络流 24 题" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81-24-%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>P2891 [USACO07OPEN] Dining G</title>
-    <link href="https://oi.baoshuo.ren/luogu-p2891/"/>
-    <id>https://oi.baoshuo.ren/luogu-p2891/</id>
-    <published>2022-03-19T21:45:11.000Z</published>
-    <updated>2022-03-19T21:45:11.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-    <category term="最大流" scheme="https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/"/>
     
   </entry>
   
