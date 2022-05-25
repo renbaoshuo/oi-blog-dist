@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/cdq-divide/index.html
 https://oi.baoshuo.ren/tree-divide/index.html
 https://oi.baoshuo.ren/luogu-p5596/index.html
 https://oi.baoshuo.ren/s2oj-1426/index.html
@@ -205,6 +206,9 @@ https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.html
 https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/index.html
 https://oi.baoshuo.ren/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/index.html
+https://oi.baoshuo.ren/tags/%E6%9D%82%E9%A1%B9/index.html
+https://oi.baoshuo.ren/tags/%E7%A6%BB%E7%BA%BF/index.html
+https://oi.baoshuo.ren/tags/CDQ-%E5%88%86%E6%B2%BB/index.html
 https://oi.baoshuo.ren/tags/Codeforces/index.html
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/index.html
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/page/2/index.html

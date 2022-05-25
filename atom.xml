@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-24T13:41:24.000Z</updated>
+  <updated>2022-05-25T13:28:39.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CDQ 分治学习笔记</title>
+    <link href="https://oi.baoshuo.ren/cdq-divide/"/>
+    <id>https://oi.baoshuo.ren/cdq-divide/</id>
+    <published>2022-05-25T21:25:49.000Z</published>
+    <updated>2022-05-25T13:28:39.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;CDQ 分治是 OI 中的一个比较常用的分治算法。该算法最早由 IOI2008 金牌得主陈丹琦提出，并因此得名。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="杂项" scheme="https://oi.baoshuo.ren/tags/%E6%9D%82%E9%A1%B9/"/>
+    
+    <category term="离线" scheme="https://oi.baoshuo.ren/tags/%E7%A6%BB%E7%BA%BF/"/>
+    
+    <category term="CDQ 分治" scheme="https://oi.baoshuo.ren/tags/CDQ-%E5%88%86%E6%B2%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>点分治学习笔记</title>
@@ -437,35 +462,6 @@
     <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
     
     <category term="费用流" scheme="https://oi.baoshuo.ren/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2774 方格取数问题</title>
-    <link href="https://oi.baoshuo.ren/luogu-p2774/"/>
-    <id>https://oi.baoshuo.ren/luogu-p2774/</id>
-    <published>2022-03-21T21:31:01.000Z</published>
-    <updated>2022-03-21T21:31:01.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
-    
-    <category term="BZOJ" scheme="https://oi.baoshuo.ren/tags/BZOJ/"/>
-    
-    <category term="Hydro" scheme="https://oi.baoshuo.ren/tags/Hydro/"/>
-    
-    <category term="最大流" scheme="https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/"/>
-    
-    <category term="网络流 24 题" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81-24-%E9%A2%98/"/>
     
   </entry>
   
