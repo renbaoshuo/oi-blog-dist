@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/luogu-p3586/index.html
 https://oi.baoshuo.ren/cdq-divide/index.html
 https://oi.baoshuo.ren/tree-divide/index.html
 https://oi.baoshuo.ren/luogu-p5596/index.html
@@ -250,6 +251,7 @@ https://oi.baoshuo.ren/tags/BZOJ/index.html
 https://oi.baoshuo.ren/tags/Hydro/index.html
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/index.html
 https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81-24-%E9%A2%98/index.html
+https://oi.baoshuo.ren/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/index.html
 https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/index.html
 https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/index.html
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/index.html

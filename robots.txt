@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oi.baoshuo.ren/sitemap.xml
