@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/about/index.html</loc>
+    
+    <lastmod>2022-05-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/luogu-p2158/</loc>
     
     <lastmod>2022-05-30</lastmod>
@@ -32,15 +41,6 @@
     <loc>https://oi.baoshuo.ren/luogu-p5596/</loc>
     
     <lastmod>2022-05-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/about/index.html</loc>
-    
-    <lastmod>2022-05-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
