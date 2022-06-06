@@ -24,8 +24,8 @@ https://oi.baoshuo.ren/solutions/luogu-p1004/index.html
 https://oi.baoshuo.ren/solution-luogu-p1200/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1200/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1486/index.html
-https://oi.baoshuo.ren/solutions/luogu-p1516/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1541/index.html
+https://oi.baoshuo.ren/solutions/luogu-p1516/index.html
 https://oi.baoshuo.ren/solution-luogu-p1724/index.html
 https://oi.baoshuo.ren/solutions/luogu-p1724/index.html
 https://oi.baoshuo.ren/solution-luogu-p2045/index.html
@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/2022-06/index.html
 https://oi.baoshuo.ren/linear-basis/index.html
 https://oi.baoshuo.ren/cpp-io-speed-optimization/index.html
 https://oi.baoshuo.ren/luogu-p2421/index.html
@@ -247,9 +248,9 @@ https://oi.baoshuo.ren/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/index.html
 https://oi.baoshuo.ren/tags/Dijkstra/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/index.html
-https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7-DP/index.html
 https://oi.baoshuo.ren/tags/%E5%A4%9A%E7%BB%B4-DP/index.html
+https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/index.html
 https://oi.baoshuo.ren/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/index.html
 https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/index.html
 https://oi.baoshuo.ren/tags/%E8%B4%B9%E7%94%A8%E6%B5%81/index.html
