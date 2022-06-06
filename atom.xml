@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-05-31T12:49:09.000Z</updated>
+  <updated>2022-06-06T01:12:45.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>线性基学习笔记</title>
+    <link href="https://oi.baoshuo.ren/linear-basis/"/>
+    <id>https://oi.baoshuo.ren/linear-basis/</id>
+    <published>2022-06-06T09:12:31.000Z</published>
+    <updated>2022-06-06T01:12:45.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;线性基在竞赛中常用来解决子集异或类题目。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="线性代数" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
+    
+    <category term="线性空间" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/"/>
+    
+    <category term="线性基" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>C++ 输入输出的速度优化与实际测试</title>
@@ -445,25 +470,6 @@
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="线性同余方程" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「省选联考 2022 Day1」预处理器</title>
-    <link href="https://oi.baoshuo.ren/luogu-p8289/"/>
-    <id>https://oi.baoshuo.ren/luogu-p8289/</id>
-    <published>2022-04-17T21:44:39.000Z</published>
-    <updated>2022-04-17T21:44:39.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="模拟" scheme="https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-    <category term="省选" scheme="https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/"/>
     
   </entry>
   
