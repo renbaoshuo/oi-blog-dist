@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-06T01:12:45.000Z</updated>
+  <updated>2022-06-07T13:29:28.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P2906 [USACO 08 OPEN] Cow Neighborhoods G</title>
+    <link href="https://oi.baoshuo.ren/luogu-p2906/"/>
+    <id>https://oi.baoshuo.ren/luogu-p2906/</id>
+    <published>2022-06-07T21:29:18.000Z</published>
+    <updated>2022-06-07T13:29:28.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>线性基学习笔记</title>
@@ -445,31 +458,6 @@
     <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
     
     <category term="逆元" scheme="https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1516 青蛙的约会</title>
-    <link href="https://oi.baoshuo.ren/luogu-p1516/"/>
-    <id>https://oi.baoshuo.ren/luogu-p1516/</id>
-    <published>2022-04-22T11:27:01.000Z</published>
-    <updated>2022-04-22T11:27:01.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
-    
-    <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="线性同余方程" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/"/>
     
   </entry>
   
