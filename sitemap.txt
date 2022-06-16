@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/index.html
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/index.html
 https://oi.baoshuo.ren/friends/index.html
+https://oi.baoshuo.ren/libreoj-2363/index.html
 https://oi.baoshuo.ren/uoj-118/index.html
 https://oi.baoshuo.ren/luogu-p2906/index.html
 https://oi.baoshuo.ren/2022-06/index.html
@@ -244,6 +245,7 @@ https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/3/index.html
 https://oi.baoshuo.ren/tags/AcWing/index.html
 https://oi.baoshuo.ren/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/index.html
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/index.html
+https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/index.html
 https://oi.baoshuo.ren/tags/S2OJ/index.html
 https://oi.baoshuo.ren/tags/S2OJ/page/2/index.html
 https://oi.baoshuo.ren/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/index.html
