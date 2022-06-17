@@ -1,2 +1,2 @@
-/*! Baoshuo's OI Blog (791f9bb) | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog (4f82ed8) | Baoshuo ( https://baoshuo.ren ) */
 !function(e){var t=function(){var t=e.getElementById("content").getElementsByClassName("tab");Array.from(t).forEach((function(e){for(var t=function(e){n.children[e].addEventListener("click",(function(){for(var t=0;t<n.children.length;t++)n.children[t].classList.remove("tab-active");n.children[e].classList.add("tab-active");for(var c=0;c<a.children.length;c++)a.children[c].classList.remove("tab-content-active");a.children[e].classList.add("tab-content-active")}))},n=e.getElementsByClassName("tab-nav")[0],a=e.getElementsByClassName("tab-contents")[0],c=0;c<n.children.length;c++)t(c)}))};t(),window.codeGroup=t}(document);

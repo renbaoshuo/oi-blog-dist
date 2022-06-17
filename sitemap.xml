@@ -1296,13 +1296,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
-    <lastmod>2022-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/</loc>
     <lastmod>2022-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1311,6 +1304,13 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/SQL/</loc>
+    <lastmod>2022-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
     <lastmod>2022-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
