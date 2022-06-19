@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/bzoj-3831/
 https://oi.baoshuo.ren/libreoj-2363/
 https://oi.baoshuo.ren/uoj-118/
 https://oi.baoshuo.ren/luogu-p2906/
@@ -217,6 +218,12 @@ https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/
 https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/
 https://oi.baoshuo.ren/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/
+https://oi.baoshuo.ren/tags/BZOJ/
+https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/
+https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/2/
+https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/3/
+https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/
+https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E4%BC%98%E5%8C%96-DP/
 https://oi.baoshuo.ren/tags/%E6%9D%82%E9%A1%B9/
 https://oi.baoshuo.ren/tags/%E7%A6%BB%E7%BA%BF/
 https://oi.baoshuo.ren/tags/CDQ-%E5%88%86%E6%B2%BB/
@@ -239,9 +246,6 @@ https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/
 https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/
 https://oi.baoshuo.ren/tags/Treap/
 https://oi.baoshuo.ren/tags/LibreOJ/
-https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/
-https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/2/
-https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/3/
 https://oi.baoshuo.ren/tags/AcWing/
 https://oi.baoshuo.ren/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/
@@ -262,7 +266,6 @@ https://oi.baoshuo.ren/tags/%E7%AD%9B%E6%B3%95/
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/
 https://oi.baoshuo.ren/tags/%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%8F%8D%E6%BC%94/
 https://oi.baoshuo.ren/tags/%E5%88%86%E5%9D%97/
-https://oi.baoshuo.ren/tags/BZOJ/
 https://oi.baoshuo.ren/tags/Hydro/
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/
 https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81-24-%E9%A2%98/
