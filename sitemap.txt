@@ -98,6 +98,7 @@ https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/bzoj-1718/
 https://oi.baoshuo.ren/bzoj-3831/
 https://oi.baoshuo.ren/libreoj-2363/
 https://oi.baoshuo.ren/uoj-118/
@@ -207,6 +208,7 @@ https://oi.baoshuo.ren/page/10/
 https://oi.baoshuo.ren/page/11/
 https://oi.baoshuo.ren/page/12/
 https://oi.baoshuo.ren/page/13/
+https://oi.baoshuo.ren/page/14/
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/
 https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/
@@ -222,6 +224,10 @@ https://oi.baoshuo.ren/tags/BZOJ/
 https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/
 https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/2/
 https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/page/3/
+https://oi.baoshuo.ren/tags/AcWing/
+https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/
+https://oi.baoshuo.ren/tags/Tarjan/
+https://oi.baoshuo.ren/tags/%E5%8F%8C%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/
 https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/
 https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E4%BC%98%E5%8C%96-DP/
 https://oi.baoshuo.ren/tags/%E6%9D%82%E9%A1%B9/
@@ -230,7 +236,6 @@ https://oi.baoshuo.ren/tags/CDQ-%E5%88%86%E6%B2%BB/
 https://oi.baoshuo.ren/tags/Codeforces/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/page/2/
-https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/
 https://oi.baoshuo.ren/tags/%E6%A0%91/
 https://oi.baoshuo.ren/tags/C/
 https://oi.baoshuo.ren/tags/STL/
@@ -246,7 +251,6 @@ https://oi.baoshuo.ren/tags/%E9%80%86%E5%85%83/
 https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/
 https://oi.baoshuo.ren/tags/Treap/
 https://oi.baoshuo.ren/tags/LibreOJ/
-https://oi.baoshuo.ren/tags/AcWing/
 https://oi.baoshuo.ren/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/
 https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/
@@ -289,7 +293,6 @@ https://oi.baoshuo.ren/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/
 https://oi.baoshuo.ren/tags/%E6%A0%88/
 https://oi.baoshuo.ren/tags/%E6%89%AB%E6%8F%8F%E7%BA%BF/
 https://oi.baoshuo.ren/tags/%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/
-https://oi.baoshuo.ren/tags/Tarjan/
 https://oi.baoshuo.ren/tags/Floyd/
 https://oi.baoshuo.ren/tags/Bellman-Ford/
 https://oi.baoshuo.ren/tags/SPFA/
