@@ -96,8 +96,9 @@ https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/404.html
-https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/about/
+https://oi.baoshuo.ren/libreoj-10183/
 https://oi.baoshuo.ren/bzoj-1718/
 https://oi.baoshuo.ren/bzoj-3831/
 https://oi.baoshuo.ren/libreoj-2363/
