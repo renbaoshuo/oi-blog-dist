@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-23T04:04:08.000Z</updated>
+  <updated>2022-06-23T07:12:05.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P3594 Wilcze doły</title>
+    <link href="https://oi.baoshuo.ren/luogu-p3594/"/>
+    <id>https://oi.baoshuo.ren/luogu-p3594/</id>
+    <published>2022-06-23T15:11:47.000Z</published>
+    <updated>2022-06-23T07:12:05.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="POI" scheme="https://oi.baoshuo.ren/tags/POI/"/>
+    
+    <category term="单调队列" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
+    
+    <category term="2015" scheme="https://oi.baoshuo.ren/tags/2015/"/>
+    
+    <category term="双指针" scheme="https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/"/>
+    
+  </entry>
   
   <entry>
     <title>LibreOJ - 10183. 股票交易</title>
@@ -149,9 +176,9 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="前缀和" scheme="https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
     <category term="UOJ" scheme="https://oi.baoshuo.ren/tags/UOJ/"/>
+    
+    <category term="前缀和" scheme="https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
   </entry>
   
@@ -486,32 +513,6 @@
     <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
     
     <category term="欧拉定理" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高斯消元学习笔记</title>
-    <link href="https://oi.baoshuo.ren/gauss/"/>
-    <id>https://oi.baoshuo.ren/gauss/</id>
-    <published>2022-05-07T21:49:42.000Z</published>
-    <updated>2022-05-07T21:49:42.000Z</updated>
-    
-    
-    <summary type="html">高斯消元法是一种通过初等行列变换将增广矩阵变为简化阶梯矩阵的线性方程组求解方法。
-</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="线性代数" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    
-    <category term="矩阵" scheme="https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/"/>
-    
-    <category term="高斯消元" scheme="https://oi.baoshuo.ren/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
     
   </entry>
   
