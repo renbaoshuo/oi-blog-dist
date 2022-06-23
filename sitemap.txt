@@ -154,12 +154,12 @@ https://oi.baoshuo.ren/tags/Codeforces/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/page/2/
 https://oi.baoshuo.ren/tags/%E6%A0%91/
-https://oi.baoshuo.ren/tags/C/
-https://oi.baoshuo.ren/tags/STL/
-https://oi.baoshuo.ren/tags/%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/
 https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/
 https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/
+https://oi.baoshuo.ren/tags/C/
+https://oi.baoshuo.ren/tags/STL/
+https://oi.baoshuo.ren/tags/%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/
 https://oi.baoshuo.ren/tags/NOIP/
 https://oi.baoshuo.ren/tags/NOIP/page/2/
 https://oi.baoshuo.ren/tags/CSP-J/
@@ -285,9 +285,9 @@ https://oi.baoshuo.ren/solutions/luogu-p2158/
 https://oi.baoshuo.ren/solution-luogu-p2234/
 https://oi.baoshuo.ren/solutions/luogu-p2234/
 https://oi.baoshuo.ren/solutions/luogu-p2261/
+https://oi.baoshuo.ren/solutions/luogu-p2389/
 https://oi.baoshuo.ren/solutions/luogu-p2412/
 https://oi.baoshuo.ren/solution-luogu-p2412/
-https://oi.baoshuo.ren/solutions/luogu-p2389/
 https://oi.baoshuo.ren/solutions/luogu-p2774/
 https://oi.baoshuo.ren/solutions/luogu-p2891/
 https://oi.baoshuo.ren/solutions/luogu-p3391/
@@ -321,7 +321,7 @@ https://oi.baoshuo.ren/solution-s2oj-1034/
 https://oi.baoshuo.ren/solutions/s2oj-1034/
 https://oi.baoshuo.ren/solution-s2oj-1036/
 https://oi.baoshuo.ren/solutions/s2oj-1036/
-https://oi.baoshuo.ren/solutions/s2oj-1230/
+https://oi.baoshuo.ren/solutions/s2oj-1238/
 https://oi.baoshuo.ren/solutions/s2oj-1256/
 https://oi.baoshuo.ren/solutions/s2oj-1426/
 https://oi.baoshuo.ren/solution-s2oj-217/
@@ -339,7 +339,7 @@ https://oi.baoshuo.ren/graph-shortest-path/
 https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
-https://oi.baoshuo.ren/solutions/s2oj-1238/
+https://oi.baoshuo.ren/solutions/s2oj-1230/
 https://oi.baoshuo.ren/solution-s2oj-1199/
 https://oi.baoshuo.ren/solutions/s2oj-1199/
 https://oi.baoshuo.ren/links/
