@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-22T01:47:46.000Z</updated>
+  <updated>2022-06-23T04:04:08.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://oi.baoshuo.ren/libreoj-10183/"/>
     <id>https://oi.baoshuo.ren/libreoj-10183/</id>
     <published>2022-06-22T09:45:01.000Z</published>
-    <updated>2022-06-22T01:47:46.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -41,6 +41,10 @@
     
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
     
+    <category term="SCOI" scheme="https://oi.baoshuo.ren/tags/SCOI/"/>
+    
+    <category term="2010" scheme="https://oi.baoshuo.ren/tags/2010/"/>
+    
   </entry>
   
   <entry>
@@ -48,7 +52,7 @@
     <link href="https://oi.baoshuo.ren/bzoj-1718/"/>
     <id>https://oi.baoshuo.ren/bzoj-1718/</id>
     <published>2022-06-20T17:23:46.000Z</published>
-    <updated>2022-06-20T09:23:57.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -61,6 +65,10 @@
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
+    
+    <category term="USACO" scheme="https://oi.baoshuo.ren/tags/USACO/"/>
+    
+    <category term="2006" scheme="https://oi.baoshuo.ren/tags/2006/"/>
     
     <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
     
@@ -71,11 +79,11 @@
   </entry>
   
   <entry>
-    <title>BZOJ - 3831 [POI2014] Little Bird</title>
+    <title>BZOJ - 3831. Little Bird</title>
     <link href="https://oi.baoshuo.ren/bzoj-3831/"/>
     <id>https://oi.baoshuo.ren/bzoj-3831/</id>
     <published>2022-06-19T21:44:01.000Z</published>
-    <updated>2022-06-19T13:44:35.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -89,6 +97,10 @@
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
+    <category term="POI" scheme="https://oi.baoshuo.ren/tags/POI/"/>
+    
+    <category term="2014" scheme="https://oi.baoshuo.ren/tags/2014/"/>
+    
     <category term="单调队列" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
     
     <category term="单调队列优化 DP" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E4%BC%98%E5%8C%96-DP/"/>
@@ -96,11 +108,11 @@
   </entry>
   
   <entry>
-    <title>LibreOJ - 2363. 「NOIP2016」愤怒的小鸟</title>
+    <title>LibreOJ - 2363. 愤怒的小鸟</title>
     <link href="https://oi.baoshuo.ren/libreoj-2363/"/>
     <id>https://oi.baoshuo.ren/libreoj-2363/</id>
     <published>2022-06-16T16:21:30.000Z</published>
-    <updated>2022-06-16T08:49:45.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -114,7 +126,11 @@
     
     <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
     
+    <category term="NOIP" scheme="https://oi.baoshuo.ren/tags/NOIP/"/>
+    
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="2016" scheme="https://oi.baoshuo.ren/tags/2016/"/>
     
     <category term="状态压缩" scheme="https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
     
@@ -140,11 +156,11 @@
   </entry>
   
   <entry>
-    <title>洛谷 - P2906 [USACO 08 OPEN] Cow Neighborhoods G</title>
+    <title>洛谷 - P2906  Cow Neighborhoods G</title>
     <link href="https://oi.baoshuo.ren/luogu-p2906/"/>
     <id>https://oi.baoshuo.ren/luogu-p2906/</id>
     <published>2022-06-07T21:29:18.000Z</published>
-    <updated>2022-06-07T13:45:23.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -152,11 +168,13 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
+    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
+    
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
-    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
-    
     <category term="USACO" scheme="https://oi.baoshuo.ren/tags/USACO/"/>
+    
+    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
     
     <category term="并查集" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
@@ -211,11 +229,11 @@
   </entry>
   
   <entry>
-    <title>洛谷 - P2421 [NOI2002] 荒岛野人</title>
+    <title>洛谷 - P2421 荒岛野人</title>
     <link href="https://oi.baoshuo.ren/luogu-p2421/"/>
     <id>https://oi.baoshuo.ren/luogu-p2421/</id>
     <published>2022-05-29T21:13:10.000Z</published>
-    <updated>2022-05-30T10:33:18.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -229,14 +247,20 @@
     
     <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
     
+    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="NOI" scheme="https://oi.baoshuo.ren/tags/NOI/"/>
+    
+    <category term="2002" scheme="https://oi.baoshuo.ren/tags/2002/"/>
+    
   </entry>
   
   <entry>
-    <title>洛谷 - P3586 [POI2015] LOG</title>
+    <title>洛谷 - P3586 LOG</title>
     <link href="https://oi.baoshuo.ren/luogu-p3586/"/>
     <id>https://oi.baoshuo.ren/luogu-p3586/</id>
     <published>2022-05-26T15:53:15.000Z</published>
-    <updated>2022-05-30T02:13:21.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -247,6 +271,10 @@
     <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="POI" scheme="https://oi.baoshuo.ren/tags/POI/"/>
+    
+    <category term="2015" scheme="https://oi.baoshuo.ren/tags/2015/"/>
     
     <category term="树状数组" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
@@ -303,11 +331,11 @@
   </entry>
   
   <entry>
-    <title>洛谷 - P5596 【XR-4】题</title>
+    <title>洛谷 - P5596 题</title>
     <link href="https://oi.baoshuo.ren/luogu-p5596/"/>
     <id>https://oi.baoshuo.ren/luogu-p5596/</id>
     <published>2022-05-23T21:26:36.000Z</published>
-    <updated>2022-05-30T02:13:21.000Z</updated>
+    <updated>2022-06-23T04:04:08.000Z</updated>
     
     
     
@@ -316,6 +344,8 @@
     
     
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="推式子" scheme="https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/"/>
     
@@ -341,7 +371,7 @@
   </entry>
   
   <entry>
-    <title>洛谷 - P2261 [CQOI2007] 余数求和</title>
+    <title>洛谷 - P2261 余数求和</title>
     <link href="https://oi.baoshuo.ren/luogu-p2261/"/>
     <id>https://oi.baoshuo.ren/luogu-p2261/</id>
     <published>2022-05-21T21:44:26.000Z</published>
@@ -356,6 +386,10 @@
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="CQOI" scheme="https://oi.baoshuo.ren/tags/CQOI/"/>
+    
+    <category term="2007" scheme="https://oi.baoshuo.ren/tags/2007/"/>
     
     <category term="分块" scheme="https://oi.baoshuo.ren/tags/%E5%88%86%E5%9D%97/"/>
     
@@ -415,6 +449,12 @@
     
     
     <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="BZOJ" scheme="https://oi.baoshuo.ren/tags/BZOJ/"/>
+    
+    <category term="JSOI" scheme="https://oi.baoshuo.ren/tags/JSOI/"/>
+    
+    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
     
     <category term="线性代数" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
     
