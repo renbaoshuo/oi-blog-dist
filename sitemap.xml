@@ -1474,7 +1474,21 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/Trie/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A0%88/</loc>
     <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1544,13 +1558,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/</loc>
-    <lastmod>2022-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
     <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1572,14 +1579,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</loc>
-    <lastmod>2022-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A0%88/</loc>
+    <loc>https://oi.baoshuo.ren/tags/Trie/</loc>
     <lastmod>2022-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
