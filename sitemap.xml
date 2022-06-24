@@ -965,14 +965,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1119,6 +1119,20 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/SCOI/</loc>
+    <lastmod>2022-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/2010/</loc>
+    <lastmod>2022-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/NOI/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1141,20 +1155,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/SCOI/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/2010/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1378,14 +1378,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1399,14 +1399,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/TJOI/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
+    <loc>https://oi.baoshuo.ren/tags/TJOI/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1581,14 +1581,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
+    <loc>https://oi.baoshuo.ren/tags/UOJ/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/UOJ/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1609,14 +1609,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
