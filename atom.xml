@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-23T07:12:05.000Z</updated>
+  <updated>2022-06-24T01:03:48.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欧拉图学习笔记</title>
+    <link href="https://oi.baoshuo.ren/euler-graph/"/>
+    <id>https://oi.baoshuo.ren/euler-graph/</id>
+    <published>2022-06-24T08:59:14.000Z</published>
+    <updated>2022-06-24T01:03:48.000Z</updated>
+    
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="离散数学" scheme="https://oi.baoshuo.ren/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="欧拉图" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%9B%BE/"/>
+    
+    <category term="欧拉路径" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E8%B7%AF%E5%BE%84/"/>
+    
+    <category term="欧拉回路" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%9B%9E%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P3594 Wilcze doły</title>
@@ -488,31 +513,6 @@
     <category term="矩阵" scheme="https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/"/>
     
     <category term="高斯消元" scheme="https://oi.baoshuo.ren/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>POJ - 3696. 最幸运的数字</title>
-    <link href="https://oi.baoshuo.ren/poj-3696/"/>
-    <id>https://oi.baoshuo.ren/poj-3696/</id>
-    <published>2022-05-08T21:59:17.000Z</published>
-    <updated>2022-05-08T21:59:17.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="数论" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/"/>
-    
-    <category term="同余" scheme="https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/"/>
-    
-    <category term="POJ" scheme="https://oi.baoshuo.ren/tags/POJ/"/>
-    
-    <category term="欧拉定理" scheme="https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
     
   </entry>
   
