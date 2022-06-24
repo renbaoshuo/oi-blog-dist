@@ -251,8 +251,8 @@ https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/
 https://oi.baoshuo.ren/tags/SQL/
 https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/
-https://oi.baoshuo.ren/tags/Trie/
 https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/
+https://oi.baoshuo.ren/tags/Trie/
 https://oi.baoshuo.ren/plans/2022-04/
 https://oi.baoshuo.ren/plans/2022-05/
 https://oi.baoshuo.ren/solutions/atcoder-agc048b/
@@ -347,9 +347,9 @@ https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solutions/poj-3090/
+https://oi.baoshuo.ren/solutions/poj-3696/
 https://oi.baoshuo.ren/solution-s2oj-1024/
 https://oi.baoshuo.ren/solutions/s2oj-1024/
-https://oi.baoshuo.ren/solutions/poj-3696/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
 https://oi.baoshuo.ren/tags/
