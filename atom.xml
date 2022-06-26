@@ -262,7 +262,7 @@
     <link href="https://oi.baoshuo.ren/cpp-io-speed-optimization/"/>
     <id>https://oi.baoshuo.ren/cpp-io-speed-optimization/</id>
     <published>2022-05-31T20:48:15.000Z</published>
-    <updated>2022-05-31T12:49:09.000Z</updated>
+    <updated>2022-06-25T03:21:08.000Z</updated>
     
     
     <summary type="html">C++ 中的 cin 和 cout 向来因为速度过慢而为算法竞赛选手所诟病。本文从 C++ 标准定义的层面上解释了为什么在默认情况下 cin 和 cout 速度过慢，以及如何解决这个问题。文末还给出了不同优化的对比测试。</summary>
