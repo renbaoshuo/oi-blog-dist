@@ -85,11 +85,11 @@
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
-    <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
-    
     <category term="单调队列" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
     
     <category term="单调队列优化 DP" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E4%BC%98%E5%8C%96-DP/"/>
+    
+    <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
     
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
     
@@ -297,11 +297,11 @@
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
-    <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
-    
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
     
     <category term="NOI" scheme="https://oi.baoshuo.ren/tags/NOI/"/>
+    
+    <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
     
     <category term="2002" scheme="https://oi.baoshuo.ren/tags/2002/"/>
     
