@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-24T01:03:48.000Z</updated>
+  <updated>2022-06-27T07:10:03.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Manacher 算法学习笔记</title>
+    <link href="https://oi.baoshuo.ren/manacher/"/>
+    <id>https://oi.baoshuo.ren/manacher/</id>
+    <published>2022-06-27T15:09:52.000Z</published>
+    <updated>2022-06-27T07:10:03.000Z</updated>
+    
+    
+    <summary type="html">Manacher 算法可以以 O(n) 的时间复杂度求出一个字符串以每个位置为中心的最长回文子串。
+</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="字符串" scheme="https://oi.baoshuo.ren/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+    
+    <category term="Manacher" scheme="https://oi.baoshuo.ren/tags/Manacher/"/>
+    
+  </entry>
   
   <entry>
     <title>欧拉图学习笔记</title>
@@ -220,11 +242,11 @@
     <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
-    
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="USACO" scheme="https://oi.baoshuo.ren/tags/USACO/"/>
+    
+    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
     
     <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
     
@@ -484,35 +506,6 @@
     <category term="Codeforces" scheme="https://oi.baoshuo.ren/tags/Codeforces/"/>
     
     <category term="树" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BZOJ - 1013. 球形空间产生器</title>
-    <link href="https://oi.baoshuo.ren/bzoj-1013/"/>
-    <id>https://oi.baoshuo.ren/bzoj-1013/</id>
-    <published>2022-05-09T16:39:41.000Z</published>
-    <updated>2022-05-09T16:39:41.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="BZOJ" scheme="https://oi.baoshuo.ren/tags/BZOJ/"/>
-    
-    <category term="JSOI" scheme="https://oi.baoshuo.ren/tags/JSOI/"/>
-    
-    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
-    
-    <category term="线性代数" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    
-    <category term="矩阵" scheme="https://oi.baoshuo.ren/tags/%E7%9F%A9%E9%98%B5/"/>
-    
-    <category term="高斯消元" scheme="https://oi.baoshuo.ren/tags/%E9%AB%98%E6%96%AF%E6%B6%88%E5%85%83/"/>
     
   </entry>
   
