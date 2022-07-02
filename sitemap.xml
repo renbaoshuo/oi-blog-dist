@@ -831,6 +831,13 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/%E9%9B%86%E8%AE%AD/</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/AtCoder/</loc>
     <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1454,14 +1461,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/</loc>
     <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/</loc>
     <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

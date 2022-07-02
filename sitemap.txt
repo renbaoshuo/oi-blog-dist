@@ -1,6 +1,6 @@
 https://oi.baoshuo.ren/404.html
-https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/2022-07/
 https://oi.baoshuo.ren/luogu-p4555/
 https://oi.baoshuo.ren/manacher/
@@ -129,6 +129,7 @@ https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/page/4/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/page/5/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/page/2/
+https://oi.baoshuo.ren/tags/%E9%9B%86%E8%AE%AD/
 https://oi.baoshuo.ren/tags/AtCoder/
 https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/
 https://oi.baoshuo.ren/tags/BZOJ/
@@ -229,8 +230,8 @@ https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/
 https://oi.baoshuo.ren/tags/TJOI/
 https://oi.baoshuo.ren/tags/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F/
 https://oi.baoshuo.ren/tags/Manacher/
-https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/
 https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/
+https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/
 https://oi.baoshuo.ren/tags/2019/
 https://oi.baoshuo.ren/tags/CSP-S/
 https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/
