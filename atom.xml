@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-03T06:59:57.000Z</updated>
+  <updated>2022-07-03T08:53:23.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洛谷 - P1441 砝码称重</title>
+    <link href="https://oi.baoshuo.ren/luogu-p1441/"/>
+    <id>https://oi.baoshuo.ren/luogu-p1441/</id>
+    <published>2022-07-03T16:53:10.000Z</published>
+    <updated>2022-07-03T08:53:23.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="bitset" scheme="https://oi.baoshuo.ren/tags/bitset/"/>
+    
+  </entry>
   
   <entry>
     <title>「CEOI2017」Mousetrap</title>
@@ -493,31 +512,6 @@
     <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
     
     <category term="S2OJ" scheme="https://oi.baoshuo.ren/tags/S2OJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2261 余数求和</title>
-    <link href="https://oi.baoshuo.ren/luogu-p2261/"/>
-    <id>https://oi.baoshuo.ren/luogu-p2261/</id>
-    <published>2022-05-21T21:44:26.000Z</published>
-    <updated>2022-05-21T21:44:26.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="CQOI" scheme="https://oi.baoshuo.ren/tags/CQOI/"/>
-    
-    <category term="2007" scheme="https://oi.baoshuo.ren/tags/2007/"/>
-    
-    <category term="分块" scheme="https://oi.baoshuo.ren/tags/%E5%88%86%E5%9D%97/"/>
     
   </entry>
   
