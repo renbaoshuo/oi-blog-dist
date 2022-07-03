@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-06-27T22:50:59.000Z</updated>
+  <updated>2022-07-03T06:59:57.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「CEOI2017」Mousetrap</title>
+    <link href="https://oi.baoshuo.ren/ceoi2017-trap/"/>
+    <id>https://oi.baoshuo.ren/ceoi2017-trap/</id>
+    <published>2022-07-03T14:54:22.000Z</published>
+    <updated>2022-07-03T06:59:57.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="动态规划" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="CEOI" scheme="https://oi.baoshuo.ren/tags/CEOI/"/>
+    
+    <category term="2017" scheme="https://oi.baoshuo.ren/tags/2017/"/>
+    
+    <category term="树形 DP" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91%E5%BD%A2-DP/"/>
+    
+    <category term="二分" scheme="https://oi.baoshuo.ren/tags/%E4%BA%8C%E5%88%86/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P4555 最长双回文串</title>
@@ -223,9 +252,9 @@
     
     <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
     
-    <category term="NOIP" scheme="https://oi.baoshuo.ren/tags/NOIP/"/>
-    
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="NOIP" scheme="https://oi.baoshuo.ren/tags/NOIP/"/>
     
     <category term="2016" scheme="https://oi.baoshuo.ren/tags/2016/"/>
     
@@ -342,9 +371,9 @@
     
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
-    <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
-    
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="扩展欧几里得算法" scheme="https://oi.baoshuo.ren/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%AE%97%E6%B3%95/"/>
     
     <category term="NOI" scheme="https://oi.baoshuo.ren/tags/NOI/"/>
     
@@ -489,25 +518,6 @@
     <category term="2007" scheme="https://oi.baoshuo.ren/tags/2007/"/>
     
     <category term="分块" scheme="https://oi.baoshuo.ren/tags/%E5%88%86%E5%9D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AtCoder - AGC048B Bracket Score</title>
-    <link href="https://oi.baoshuo.ren/atcoder-agc048b/"/>
-    <id>https://oi.baoshuo.ren/atcoder-agc048b/</id>
-    <published>2022-05-11T21:52:43.000Z</published>
-    <updated>2022-05-11T21:52:43.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="AtCoder" scheme="https://oi.baoshuo.ren/tags/AtCoder/"/>
-    
-    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
