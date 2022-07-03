@@ -224,8 +224,8 @@ https://oi.baoshuo.ren/tags/Hydro/
 https://oi.baoshuo.ren/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/
 https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81-24-%E9%A2%98/
 https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/
-https://oi.baoshuo.ren/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%9D%BF/
+https://oi.baoshuo.ren/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/
 https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/
 https://oi.baoshuo.ren/tags/TJOI/
 https://oi.baoshuo.ren/tags/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F/
@@ -242,6 +242,7 @@ https://oi.baoshuo.ren/tags/Kruskal/
 https://oi.baoshuo.ren/tags/%E7%89%9B%E5%AE%A2%E7%BD%91/
 https://oi.baoshuo.ren/tags/%E6%AF%94%E8%B5%9B/
 https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/
+https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/
 https://oi.baoshuo.ren/tags/Trie/
 https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/
 https://oi.baoshuo.ren/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/
@@ -258,7 +259,6 @@ https://oi.baoshuo.ren/tags/UOJ/
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E5%86%9B/
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/
 https://oi.baoshuo.ren/tags/SQL/
-https://oi.baoshuo.ren/tags/%E7%BA%A6%E6%95%B0/
 https://oi.baoshuo.ren/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96%E7%BA%BF%E6%AE%B5%E6%A0%91/
 https://oi.baoshuo.ren/plans/2022-04/
 https://oi.baoshuo.ren/plans/2022-05/
@@ -326,8 +326,8 @@ https://oi.baoshuo.ren/solutions/nowcoder-contest-7606/
 https://oi.baoshuo.ren/solution-nowcoder-contest-7606/
 https://oi.baoshuo.ren/solution-nowcoder-contest-7612/
 https://oi.baoshuo.ren/solutions/nowcoder-contest-7612/
-https://oi.baoshuo.ren/solutions/poj-1006/
 https://oi.baoshuo.ren/solutions/poj-3696/
+https://oi.baoshuo.ren/solutions/poj-3090/
 https://oi.baoshuo.ren/solution-s2oj-1024/
 https://oi.baoshuo.ren/solutions/s2oj-1024/
 https://oi.baoshuo.ren/solution-s2oj-1034/
@@ -355,8 +355,8 @@ https://oi.baoshuo.ren/graph-shortest-path/
 https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
-https://oi.baoshuo.ren/solutions/poj-3090/
 https://oi.baoshuo.ren/notes/ds/persistent-segment-tree/
+https://oi.baoshuo.ren/solutions/poj-1006/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
 https://oi.baoshuo.ren/tags/
