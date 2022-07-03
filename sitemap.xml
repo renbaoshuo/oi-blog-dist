@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oi.baoshuo.ren/ceoi2017-trap/</loc>
+    <loc>https://oi.baoshuo.ren/2022-07/</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/2022-07/</loc>
+    <loc>https://oi.baoshuo.ren/ceoi2017-trap/</loc>
     
     <lastmod>2022-07-03</lastmod>
     
@@ -1582,14 +1582,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/Trie/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/</loc>
+    <loc>https://oi.baoshuo.ren/tags/Trie/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
