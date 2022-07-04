@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-03T08:53:23.000Z</updated>
+  <updated>2022-07-04T14:27:29.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「JOI 2022 Final」Let&#39;s Win the Election</title>
+    <link href="https://oi.baoshuo.ren/joi-2022-election/"/>
+    <id>https://oi.baoshuo.ren/joi-2022-election/</id>
+    <published>2022-07-04T22:26:58.000Z</published>
+    <updated>2022-07-04T14:27:29.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="动态规划" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    
+    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
+    
+    <category term="JOI" scheme="https://oi.baoshuo.ren/tags/JOI/"/>
+    
+    <category term="2022" scheme="https://oi.baoshuo.ren/tags/2022/"/>
+    
+  </entry>
   
   <entry>
     <title>洛谷 - P1441 砝码称重</title>
@@ -493,25 +520,6 @@
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="推式子" scheme="https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>S2OJ - 1426. 空</title>
-    <link href="https://oi.baoshuo.ren/s2oj-1426/"/>
-    <id>https://oi.baoshuo.ren/s2oj-1426/</id>
-    <published>2022-05-22T20:33:21.000Z</published>
-    <updated>2022-05-22T20:33:21.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
-    
-    <category term="S2OJ" scheme="https://oi.baoshuo.ren/tags/S2OJ/"/>
     
   </entry>
   
