@@ -1502,14 +1502,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/TJOI/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
+    <loc>https://oi.baoshuo.ren/tags/TJOI/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1565,21 +1565,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E7%89%9B%E5%AE%A2%E7%BD%91/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/Prim/</loc>
-    <lastmod>2022-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/Kruskal/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%AF%94%E8%B5%9B/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1705,13 +1698,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%AF%94%E8%B5%9B/</loc>
-    <lastmod>2022-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/%E5%AD%A6%E8%80%83/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1726,7 +1712,21 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E7%89%9B%E5%AE%A2%E7%BD%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Prim/</loc>
+    <lastmod>2022-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Kruskal/</loc>
     <lastmod>2022-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
