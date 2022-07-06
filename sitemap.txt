@@ -325,10 +325,10 @@ https://oi.baoshuo.ren/solution-luogu-p5660/
 https://oi.baoshuo.ren/solutions/luogu-p5660/
 https://oi.baoshuo.ren/solution-luogu-p5661/
 https://oi.baoshuo.ren/solutions/luogu-p5661/
-https://oi.baoshuo.ren/solution-luogu-p5738/
-https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/solution-luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p7913/
+https://oi.baoshuo.ren/solution-luogu-p5738/
+https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/solutions/luogu-p8289/
 https://oi.baoshuo.ren/notes/graph/max-flow/
 https://oi.baoshuo.ren/notes/graph/minimum-spanning-tree/
@@ -346,9 +346,9 @@ https://oi.baoshuo.ren/solution-s2oj-1034/
 https://oi.baoshuo.ren/solutions/s2oj-1034/
 https://oi.baoshuo.ren/solution-s2oj-1036/
 https://oi.baoshuo.ren/solutions/s2oj-1036/
-https://oi.baoshuo.ren/solutions/s2oj-1230/
 https://oi.baoshuo.ren/solution-s2oj-1199/
 https://oi.baoshuo.ren/solutions/s2oj-1199/
+https://oi.baoshuo.ren/solutions/s2oj-1230/
 https://oi.baoshuo.ren/solutions/s2oj-1238/
 https://oi.baoshuo.ren/solutions/s2oj-1256/
 https://oi.baoshuo.ren/solutions/s2oj-1426/
