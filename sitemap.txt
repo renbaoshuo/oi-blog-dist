@@ -1,6 +1,7 @@
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/s2oj-1470/
 https://oi.baoshuo.ren/s2oj-1461/
 https://oi.baoshuo.ren/joi-2022-election/
 https://oi.baoshuo.ren/luogu-p1441/
@@ -330,6 +331,7 @@ https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/solution-luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p8289/
+https://oi.baoshuo.ren/notes/graph/max-flow/
 https://oi.baoshuo.ren/notes/graph/minimum-spanning-tree/
 https://oi.baoshuo.ren/solutions/nowcoder-contest-7606/
 https://oi.baoshuo.ren/solution-nowcoder-contest-7606/
@@ -366,7 +368,6 @@ https://oi.baoshuo.ren/graph-shortest-path/
 https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
-https://oi.baoshuo.ren/notes/graph/max-flow/
 https://oi.baoshuo.ren/notes/math/matrix/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
