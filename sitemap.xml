@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/s2oj-1471/</loc>
+    
+    <lastmod>2022-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/s2oj-1470/</loc>
     
     <lastmod>2022-07-11</lastmod>
@@ -1149,6 +1158,13 @@
   </url>
   
   <url>
+    <loc>https://oi.baoshuo.ren/tags/2021/</loc>
+    <lastmod>2022-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/tags/2020/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -1157,13 +1173,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E6%90%9C%E7%B4%A2/</loc>
-    <lastmod>2022-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/2021/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1352,14 +1361,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/bitset/</loc>
+    <loc>https://oi.baoshuo.ren/tags/2004/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/2004/</loc>
+    <loc>https://oi.baoshuo.ren/tags/bitset/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1548,14 +1557,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/</loc>
     <lastmod>2022-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
