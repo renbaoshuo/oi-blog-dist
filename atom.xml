@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-11T09:19:50.000Z</updated>
+  <updated>2022-07-13T03:55:05.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「ZJOI2006」书架</title>
+    <link href="https://oi.baoshuo.ren/zjoi2006-book/"/>
+    <id>https://oi.baoshuo.ren/zjoi2006-book/</id>
+    <published>2022-07-13T03:49:15.000Z</published>
+    <updated>2022-07-13T03:55:05.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="2006" scheme="https://oi.baoshuo.ren/tags/2006/"/>
+    
+    <category term="平衡树" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
+    
+    <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
+    
+    <category term="ZJOI" scheme="https://oi.baoshuo.ren/tags/ZJOI/"/>
+    
+  </entry>
   
   <entry>
     <title>S2OJ - 1471. 进化序列</title>
@@ -479,31 +506,6 @@
     <category term="NOI" scheme="https://oi.baoshuo.ren/tags/NOI/"/>
     
     <category term="2002" scheme="https://oi.baoshuo.ren/tags/2002/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P3586 LOG</title>
-    <link href="https://oi.baoshuo.ren/luogu-p3586/"/>
-    <id>https://oi.baoshuo.ren/luogu-p3586/</id>
-    <published>2022-05-26T15:53:15.000Z</published>
-    <updated>2022-06-23T04:04:08.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="POI" scheme="https://oi.baoshuo.ren/tags/POI/"/>
-    
-    <category term="2015" scheme="https://oi.baoshuo.ren/tags/2015/"/>
-    
-    <category term="树状数组" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
