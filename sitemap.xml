@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/common-mistakes/index.html</loc>
+    
+    <lastmod>2022-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/2022-07/</loc>
+    
+    <lastmod>2022-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/zjoi2006-book/</loc>
     
     <lastmod>2022-07-13</lastmod>
@@ -14,15 +32,6 @@
     <loc>https://oi.baoshuo.ren/about/index.html</loc>
     
     <lastmod>2022-07-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/2022-07/</loc>
-    
-    <lastmod>2022-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
