@@ -1,7 +1,7 @@
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
-https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/cerc2007-sort/
 https://oi.baoshuo.ren/zjoi2006-book/
 https://oi.baoshuo.ren/s2oj-1471/
@@ -141,9 +141,9 @@ https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/page/4/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/page/5/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
 https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/page/2/
+https://oi.baoshuo.ren/tags/%E9%9B%86%E8%AE%AD/
 https://oi.baoshuo.ren/tags/AtCoder/
 https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/
-https://oi.baoshuo.ren/tags/%E9%9B%86%E8%AE%AD/
 https://oi.baoshuo.ren/tags/BZOJ/
 https://oi.baoshuo.ren/tags/JSOI/
 https://oi.baoshuo.ren/tags/2008/
