@@ -1,7 +1,7 @@
 https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
-https://oi.baoshuo.ren/friends/
 https://oi.baoshuo.ren/common-mistakes/
+https://oi.baoshuo.ren/friends/
 https://oi.baoshuo.ren/cerc2007-sort/
 https://oi.baoshuo.ren/zjoi2006-book/
 https://oi.baoshuo.ren/s2oj-1471/
@@ -373,10 +373,10 @@ https://oi.baoshuo.ren/graph-shortest-path/
 https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
-https://oi.baoshuo.ren/solution-luogu-p5738/
-https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/solution-luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p7913/
+https://oi.baoshuo.ren/solution-luogu-p5738/
+https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
 https://oi.baoshuo.ren/tags/
