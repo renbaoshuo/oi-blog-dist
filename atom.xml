@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-15T01:07:59.000Z</updated>
+  <updated>2022-07-15T13:53:55.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Link-Cut Tree 学习笔记</title>
+    <link href="https://oi.baoshuo.ren/link-cut-tree/"/>
+    <id>https://oi.baoshuo.ren/link-cut-tree/</id>
+    <published>2022-07-15T21:52:19.000Z</published>
+    <updated>2022-07-15T13:53:55.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Link-Cut Tree 是一种用来解决动态树问题的数据结构。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="Treap" scheme="https://oi.baoshuo.ren/tags/Treap/"/>
+    
+    <category term="动态树" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E6%A0%91/"/>
+    
+    <category term="Splay" scheme="https://oi.baoshuo.ren/tags/Splay/"/>
+    
+    <category term="Link Cut Tree" scheme="https://oi.baoshuo.ren/tags/Link-Cut-Tree/"/>
+    
+  </entry>
   
   <entry>
     <title>Splay 学习笔记</title>
@@ -484,31 +511,6 @@
     <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
     
     <category term="并查集" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>线性基学习笔记</title>
-    <link href="https://oi.baoshuo.ren/linear-basis/"/>
-    <id>https://oi.baoshuo.ren/linear-basis/</id>
-    <published>2022-06-06T09:12:31.000Z</published>
-    <updated>2022-06-06T01:12:45.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;线性基在竞赛中常用来解决子集异或类题目。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="线性代数" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    
-    <category term="线性空间" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/"/>
-    
-    <category term="线性基" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/"/>
     
   </entry>
   

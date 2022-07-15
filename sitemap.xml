@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oi.baoshuo.ren/link-cut-tree/</loc>
+    
+    <lastmod>2022-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oi.baoshuo.ren/splay/</loc>
     
     <lastmod>2022-07-15</lastmod>
@@ -1159,14 +1168,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1405,6 +1414,27 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E6%A0%91/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Splay/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Link-Cut-Tree/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1741,13 +1771,6 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/SPFA/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/Splay/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

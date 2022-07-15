@@ -2,6 +2,7 @@ https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/link-cut-tree/
 https://oi.baoshuo.ren/splay/
 https://oi.baoshuo.ren/cerc2007-sort/
 https://oi.baoshuo.ren/zjoi2006-book/
@@ -184,9 +185,9 @@ https://oi.baoshuo.ren/tags/CQOI/
 https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/
 https://oi.baoshuo.ren/tags/Treap/
 https://oi.baoshuo.ren/tags/Codeforces/
-https://oi.baoshuo.ren/tags/%E6%A0%91/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/
 https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/page/2/
+https://oi.baoshuo.ren/tags/%E6%A0%91/
 https://oi.baoshuo.ren/tags/C/
 https://oi.baoshuo.ren/tags/STL/
 https://oi.baoshuo.ren/tags/%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/
@@ -224,6 +225,9 @@ https://oi.baoshuo.ren/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/
 https://oi.baoshuo.ren/tags/Dijkstra/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/
+https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E6%A0%91/
+https://oi.baoshuo.ren/tags/Splay/
+https://oi.baoshuo.ren/tags/Link-Cut-Tree/
 https://oi.baoshuo.ren/tags/2000/
 https://oi.baoshuo.ren/tags/bitset/
 https://oi.baoshuo.ren/tags/2004/
@@ -272,7 +276,6 @@ https://oi.baoshuo.ren/tags/%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/
 https://oi.baoshuo.ren/tags/Floyd/
 https://oi.baoshuo.ren/tags/Bellman-Ford/
 https://oi.baoshuo.ren/tags/SPFA/
-https://oi.baoshuo.ren/tags/Splay/
 https://oi.baoshuo.ren/tags/%E6%A0%91%E5%88%86%E6%B2%BB/
 https://oi.baoshuo.ren/tags/%E7%82%B9%E5%88%86%E6%B2%BB/
 https://oi.baoshuo.ren/tags/%E5%88%86%E6%B2%BB/
@@ -286,10 +289,10 @@ https://oi.baoshuo.ren/plans/2022-04/
 https://oi.baoshuo.ren/plans/2022-05/
 https://oi.baoshuo.ren/solutions/atcoder-agc048b/
 https://oi.baoshuo.ren/solutions/bzoj-1013/
-https://oi.baoshuo.ren/solutions/codeforces-1675d/
 https://oi.baoshuo.ren/solution-luogu-cf1433a/
 https://oi.baoshuo.ren/luogu-cf1433a/
 https://oi.baoshuo.ren/solutions/luogu-cf1433a/
+https://oi.baoshuo.ren/solutions/codeforces-1675d/
 https://oi.baoshuo.ren/notes/math/crt/
 https://oi.baoshuo.ren/solution-csp-j-2020/
 https://oi.baoshuo.ren/solutions/csp-j-2020/
@@ -334,8 +337,6 @@ https://oi.baoshuo.ren/solution-luogu-p4994/
 https://oi.baoshuo.ren/solutions/luogu-p4994/
 https://oi.baoshuo.ren/solution-luogu-p5660/
 https://oi.baoshuo.ren/solutions/luogu-p5660/
-https://oi.baoshuo.ren/solution-luogu-p5661/
-https://oi.baoshuo.ren/solutions/luogu-p5661/
 https://oi.baoshuo.ren/solutions/luogu-p8289/
 https://oi.baoshuo.ren/notes/math/matrix/
 https://oi.baoshuo.ren/notes/graph/max-flow/
@@ -379,6 +380,8 @@ https://oi.baoshuo.ren/solution-luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p7913/
 https://oi.baoshuo.ren/solution-luogu-p5738/
 https://oi.baoshuo.ren/solutions/luogu-p5738/
+https://oi.baoshuo.ren/solution-luogu-p5661/
+https://oi.baoshuo.ren/solutions/luogu-p5661/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
 https://oi.baoshuo.ren/tags/
