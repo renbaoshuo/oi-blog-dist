@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-15T13:53:55.000Z</updated>
+  <updated>2022-07-15T14:12:31.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>「HNOI2010」弹飞绵羊</title>
+    <link href="https://oi.baoshuo.ren/hnoi2010-bounce/"/>
+    <id>https://oi.baoshuo.ren/hnoi2010-bounce/</id>
+    <published>2022-07-15T22:07:12.000Z</published>
+    <updated>2022-07-15T14:12:31.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="BZOJ" scheme="https://oi.baoshuo.ren/tags/BZOJ/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="HNOI" scheme="https://oi.baoshuo.ren/tags/HNOI/"/>
+    
+    <category term="2010" scheme="https://oi.baoshuo.ren/tags/2010/"/>
+    
+    <category term="动态树" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E6%A0%91/"/>
+    
+    <category term="Link-Cut Tree" scheme="https://oi.baoshuo.ren/tags/Link-Cut-Tree/"/>
+    
+    <category term="Splay" scheme="https://oi.baoshuo.ren/tags/Splay/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Link-Cut Tree 学习笔记</title>
     <link href="https://oi.baoshuo.ren/link-cut-tree/"/>
     <id>https://oi.baoshuo.ren/link-cut-tree/</id>
     <published>2022-07-15T21:52:19.000Z</published>
-    <updated>2022-07-15T13:53:55.000Z</updated>
+    <updated>2022-07-15T13:57:56.000Z</updated>
     
     
     <summary type="html">&lt;p&gt;Link-Cut Tree 是一种用来解决动态树问题的数据结构。&lt;/p&gt;</summary>
@@ -37,9 +68,9 @@
     
     <category term="动态树" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E6%A0%91/"/>
     
-    <category term="Splay" scheme="https://oi.baoshuo.ren/tags/Splay/"/>
+    <category term="Link-Cut Tree" scheme="https://oi.baoshuo.ren/tags/Link-Cut-Tree/"/>
     
-    <category term="Link Cut Tree" scheme="https://oi.baoshuo.ren/tags/Link-Cut-Tree/"/>
+    <category term="Splay" scheme="https://oi.baoshuo.ren/tags/Splay/"/>
     
   </entry>
   
@@ -375,9 +406,9 @@
     
     <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
     
-    <category term="SCOI" scheme="https://oi.baoshuo.ren/tags/SCOI/"/>
-    
     <category term="2010" scheme="https://oi.baoshuo.ren/tags/2010/"/>
+    
+    <category term="SCOI" scheme="https://oi.baoshuo.ren/tags/SCOI/"/>
     
   </entry>
   
@@ -486,31 +517,6 @@
     <category term="前缀和" scheme="https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
     <category term="UOJ" scheme="https://oi.baoshuo.ren/tags/UOJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P2906  Cow Neighborhoods G</title>
-    <link href="https://oi.baoshuo.ren/luogu-p2906/"/>
-    <id>https://oi.baoshuo.ren/luogu-p2906/</id>
-    <published>2022-06-07T21:29:18.000Z</published>
-    <updated>2022-06-23T04:04:08.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="USACO" scheme="https://oi.baoshuo.ren/tags/USACO/"/>
-    
-    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
-    
-    <category term="并查集" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
   </entry>
   
