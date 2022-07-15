@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-14T00:21:37.000Z</updated>
+  <updated>2022-07-15T01:07:59.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Splay 学习笔记</title>
+    <link href="https://oi.baoshuo.ren/splay/"/>
+    <id>https://oi.baoshuo.ren/splay/</id>
+    <published>2022-07-15T09:07:48.000Z</published>
+    <updated>2022-07-15T01:07:59.000Z</updated>
+    
+    
+    <summary type="html">Splay 是一种二叉查找树，它通过不断将某个节点旋转到根节点，使得整棵树仍然满足二叉查找树的性质，并且保持平衡而不至于退化为链。它可以在 O(log n) 的时间内完成基于 Splay 操作的修改与查询。
+</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="平衡树" scheme="https://oi.baoshuo.ren/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
+    
+    <category term="Splay" scheme="https://oi.baoshuo.ren/tags/Splay/"/>
+    
+  </entry>
   
   <entry>
     <title>「CERC2007」机械排序</title>
@@ -485,29 +509,6 @@
     <category term="线性空间" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/"/>
     
     <category term="线性基" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%9F%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C++ 输入输出的速度优化与实际测试</title>
-    <link href="https://oi.baoshuo.ren/cpp-io-speed-optimization/"/>
-    <id>https://oi.baoshuo.ren/cpp-io-speed-optimization/</id>
-    <published>2022-05-31T20:48:15.000Z</published>
-    <updated>2022-06-25T03:21:08.000Z</updated>
-    
-    
-    <summary type="html">C++ 中的 cin 和 cout 向来因为速度过慢而为算法竞赛选手所诟病。本文从 C++ 标准定义的层面上解释了为什么在默认情况下 cin 和 cout 速度过慢，以及如何解决这个问题。文末还给出了不同优化的对比测试。</summary>
-    
-    
-    
-    <category term="杂项" scheme="https://oi.baoshuo.ren/categories/%E6%9D%82%E9%A1%B9/"/>
-    
-    
-    <category term="C++" scheme="https://oi.baoshuo.ren/tags/C/"/>
-    
-    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
-    
-    <category term="速度优化" scheme="https://oi.baoshuo.ren/tags/%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
