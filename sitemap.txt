@@ -337,8 +337,6 @@ https://oi.baoshuo.ren/solution-luogu-p3879/
 https://oi.baoshuo.ren/solutions/luogu-p3879/
 https://oi.baoshuo.ren/solution-luogu-p4994/
 https://oi.baoshuo.ren/solutions/luogu-p4994/
-https://oi.baoshuo.ren/solution-luogu-p5738/
-https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/solution-luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p7913/
 https://oi.baoshuo.ren/solutions/luogu-p8289/
@@ -380,10 +378,12 @@ https://oi.baoshuo.ren/graph-shortest-path/
 https://oi.baoshuo.ren/notes/graph/shortest-path/
 https://oi.baoshuo.ren/solutions/xjoi-3rd-turing-cup/
 https://oi.baoshuo.ren/solution-xjoi-3rd-turing-cup/
-https://oi.baoshuo.ren/solution-luogu-p5661/
-https://oi.baoshuo.ren/solutions/luogu-p5661/
 https://oi.baoshuo.ren/solution-luogu-p5660/
 https://oi.baoshuo.ren/solutions/luogu-p5660/
+https://oi.baoshuo.ren/solution-luogu-p5661/
+https://oi.baoshuo.ren/solutions/luogu-p5661/
+https://oi.baoshuo.ren/solution-luogu-p5738/
+https://oi.baoshuo.ren/solutions/luogu-p5738/
 https://oi.baoshuo.ren/links/
 https://oi.baoshuo.ren/search/
 https://oi.baoshuo.ren/tags/
