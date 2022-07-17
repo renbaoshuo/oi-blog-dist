@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-15T14:12:31.000Z</updated>
+  <updated>2022-07-17T14:19:04.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>组合数学基础</title>
+    <link href="https://oi.baoshuo.ren/combinatorics/"/>
+    <id>https://oi.baoshuo.ren/combinatorics/</id>
+    <published>2022-07-17T22:18:52.000Z</published>
+    <updated>2022-07-17T14:19:04.000Z</updated>
+    
+    
+    
+    
+    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="组合数学" scheme="https://oi.baoshuo.ren/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="计数原理" scheme="https://oi.baoshuo.ren/tags/%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/"/>
+    
+    <category term="排列组合" scheme="https://oi.baoshuo.ren/tags/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88/"/>
+    
+    <category term="二项式定理" scheme="https://oi.baoshuo.ren/tags/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86/"/>
+    
+    <category term="Lucas 定理" scheme="https://oi.baoshuo.ren/tags/Lucas-%E5%AE%9A%E7%90%86/"/>
+    
+    <category term="Catalan 数" scheme="https://oi.baoshuo.ren/tags/Catalan-%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>「HNOI2010」弹飞绵羊</title>
@@ -498,25 +527,6 @@
     <category term="2016" scheme="https://oi.baoshuo.ren/tags/2016/"/>
     
     <category term="状态压缩" scheme="https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UOJ - 118. 进京赶考</title>
-    <link href="https://oi.baoshuo.ren/uoj-118/"/>
-    <id>https://oi.baoshuo.ren/uoj-118/</id>
-    <published>2022-06-13T18:46:33.000Z</published>
-    <updated>2022-06-13T11:11:14.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="前缀和" scheme="https://oi.baoshuo.ren/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
-    <category term="UOJ" scheme="https://oi.baoshuo.ren/tags/UOJ/"/>
     
   </entry>
   
