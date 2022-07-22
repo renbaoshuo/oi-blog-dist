@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-07-17T23:58:16.000Z</updated>
+  <updated>2022-07-22T11:05:02.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AGC018C - Coins</title>
+    <link href="https://oi.baoshuo.ren/atcoder-agc018c/"/>
+    <id>https://oi.baoshuo.ren/atcoder-agc018c/</id>
+    <published>2022-07-22T19:00:00.000Z</published>
+    <updated>2022-07-22T11:05:02.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="AtCoder" scheme="https://oi.baoshuo.ren/tags/AtCoder/"/>
+    
+    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="反悔贪心" scheme="https://oi.baoshuo.ren/tags/%E5%8F%8D%E6%82%94%E8%B4%AA%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>组合数学基础</title>
@@ -498,35 +519,6 @@
     <category term="单调队列" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/"/>
     
     <category term="单调队列优化 DP" scheme="https://oi.baoshuo.ren/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E4%BC%98%E5%8C%96-DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LibreOJ - 2363. 愤怒的小鸟</title>
-    <link href="https://oi.baoshuo.ren/libreoj-2363/"/>
-    <id>https://oi.baoshuo.ren/libreoj-2363/</id>
-    <published>2022-06-16T16:21:30.000Z</published>
-    <updated>2022-06-23T04:04:08.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="动态规划" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="AcWing" scheme="https://oi.baoshuo.ren/tags/AcWing/"/>
-    
-    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
-    
-    <category term="NOIP" scheme="https://oi.baoshuo.ren/tags/NOIP/"/>
-    
-    <category term="2016" scheme="https://oi.baoshuo.ren/tags/2016/"/>
-    
-    <category term="状态压缩" scheme="https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
     
   </entry>
   
