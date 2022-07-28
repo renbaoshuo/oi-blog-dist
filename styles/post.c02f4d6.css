@@ -1,0 +1,191 @@
+/*! Baoshuo's OI Blog (77722d5) | Baoshuo ( https://baoshuo.ren ) */
+/* Title */
+.bs__page-title {
+  font-size: 26px !important;
+}
+@media (min-width: 768px) {
+  .bs__page-title {
+    font-size: 28px !important;
+  }
+}
+
+/* Conflict between hljs and primer */
+pre {
+  padding: 0 !important;
+}
+
+/* Prev & Next Icon */
+.previous_page::before {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  margin-right: 8px !important;
+}
+
+.next_page::after {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  margin-left: 8px !important;
+}
+
+/* Problem card */
+.bs__problem-card .left {
+  word-break: keep-all;
+  width: 4em;
+}
+.bs__problem-card tr:first-child td {
+  padding-top: 0 !important;
+}
+.bs__problem-card tr:last-child {
+  border-bottom: none !important;
+}
+.bs__problem-card tr:last-child td {
+  padding-bottom: 0 !important;
+}
+
+/* Custom card background */
+.bs__sponsor-card,
+.bs__copyright-card {
+  background-image: unset !important;
+}
+
+/* Grid layout order */
+@media (min-width: 768px) {
+  .bs__Layout-main-1 {
+    grid-row: 1/span 3;
+  }
+  .bs__Layout-sidebar-1 {
+    grid-row: 1/1;
+  }
+  .bs__Layout-sidebar-2 {
+    grid-row: 3/3;
+  }
+  .bs__Layout-sidebar-3 {
+    grid-row: 2/2;
+  }
+}
+/* `width: fit-content` class */
+.width-fit-content {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+/* Fix the bottom margin of the last child of tab content */
+.bs__tab-content > :last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Fix list style of ActionList component */
+.ActionList {
+  list-style: none;
+  /* Fix y-padding of nested ActionList component */
+}
+.ActionList .ActionList {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Table of Contents */
+#toc-content {
+  scroll-behavior: smooth;
+}
+@media (min-width: 768px) {
+  #toc-content {
+    /* Fix the height of table of contents */
+    max-height: calc(100vh - 72px);
+    overflow-y: auto;
+  }
+}
+
+.bs__toc-item--active {
+  background: var(--color-action-list-item-default-selected-bg);
+  transition: background-color 0.15s ease-in-out;
+}
+.bs__toc-item--active > .ActionList-item-label {
+  font-weight: bold;
+}
+
+/*
+ * GFM task lists support
+ *
+ * ref: https://github.com/primer/css/issues/1149
+ */
+.markdown-body li.task-list-item {
+  list-style-type: none;
+}
+.markdown-body li.task-list-item .task-list-item-checkbox {
+  margin: 0 0.2em 0.25em -1.6em;
+}
+
+/* Fix first child margin */
+.markdown-body > section:first-child > :first-child {
+  margin-top: 0 !important;
+}
+.markdown-body > section:last-child > :last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Code language & size */
+pre > code.hljs {
+  position: relative;
+}
+pre > code.hljs::before {
+  color: var(--color-fg-muted);
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  font-size: 1.15em;
+  text-transform: uppercase;
+}
+pre > code.hljs[data-size]::before {
+  content: attr(data-size) "kB";
+}
+pre > code.hljs[data-lang]::before {
+  content: attr(data-lang);
+}
+pre > code.hljs[data-lang][data-size]::before {
+  content: attr(data-lang) ", " attr(data-size) "kB";
+}
+pre > code.hljs[data-lang=cpp][data-size]::before {
+  content: "C++, " attr(data-size) "kB";
+}
+
+/* Fix tabs margin-bottom */
+.bs__tabs {
+  margin-bottom: 16px !important;
+}
+
+/* Print styles */
+@media print {
+  .bs__Layout {
+    display: block;
+  }
+  .bs__toc,
+.bs__sponsor-card,
+.bs__copyright-card,
+.bs__post-pagination,
+.bs__Layout-sidebar-3,
+.bs__tab-nav {
+    display: none !important;
+  }
+  .bs__tabs > .tabnav {
+    border-bottom: none !important;
+  }
+  .bs__tab-content {
+    display: block !important;
+    margin-top: 24px !important;
+    border-top: 1px solid var(--color-border-default);
+  }
+  .bs__tab-content::before {
+    content: attr(data-title);
+    display: block;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid var(--color-border-default);
+  }
+  pre > code {
+    white-space: pre-wrap !important;
+  }
+}

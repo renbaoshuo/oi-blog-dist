@@ -1,0 +1,23 @@
+/*! Baoshuo's OI Blog (77722d5) | Baoshuo ( https://baoshuo.ren ) */
+/* Title */
+.bs__page-title {
+  font-size: 26px !important;
+}
+@media (min-width: 768px) {
+  .bs__page-title {
+    font-size: 28px !important;
+  }
+}
+
+/* Conflict between hljs and primer */
+pre {
+  padding: 0 !important;
+}
+
+/* Fix first child margin */
+.markdown-body > section:first-child > :first-child {
+  margin-top: 0 !important;
+}
+.markdown-body > section:last-child > :last-child {
+  margin-bottom: 0 !important;
+}
