@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oi.baoshuo.ren/common-mistakes/index.html</loc>
+    <loc>https://oi.baoshuo.ren/s2oj-45/</loc>
     
     <lastmod>2022-07-28</lastmod>
     
@@ -13,7 +13,16 @@
   <url>
     <loc>https://oi.baoshuo.ren/s2oj-1486/</loc>
     
-    <lastmod>2022-07-27</lastmod>
+    <lastmod>2022-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/common-mistakes/index.html</loc>
+    
+    <lastmod>2022-07-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1169,20 +1178,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/Codeforces/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/CERC/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1212,6 +1207,20 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/Treap/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/Codeforces/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A8%A1%E6%8B%9F/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1267,27 +1276,6 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oi.baoshuo.ren/tags/C/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1303,6 +1291,27 @@
   
   <url>
     <loc>https://oi.baoshuo.ren/tags/%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E6%95%B0%E8%AE%BA/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E5%90%8C%E4%BD%99/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oi.baoshuo.ren/tags/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1547,14 +1556,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/</loc>
+    <loc>https://oi.baoshuo.ren/tags/2004/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/2004/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E5%90%8C%E4%BD%99%E6%96%B9%E7%A8%8B/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1890,14 +1899,14 @@
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/UOJ/</loc>
+    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91%E5%A5%97%E6%A0%91/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oi.baoshuo.ren/tags/%E6%A0%91%E5%A5%97%E6%A0%91/</loc>
+    <loc>https://oi.baoshuo.ren/tags/UOJ/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
