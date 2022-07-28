@@ -1,4 +1,4 @@
-/*! Baoshuo's OI Blog (87c8389) | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog (ecbaba2) | Baoshuo ( https://baoshuo.ren ) */
 /* Title */
 .bs__page-title {
   font-size: 26px !important;
@@ -45,7 +45,7 @@ pre {
 /* Custom card background */
 .bs__sponsor-card,
 .bs__copyright-card {
-  background-image: unset !important;
+  background-image: none !important;
 }
 
 /* Grid layout order */

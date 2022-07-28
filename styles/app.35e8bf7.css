@@ -1,4 +1,4 @@
-/*! Baoshuo's OI Blog (87c8389) | Baoshuo ( https://baoshuo.ren ) */
+/*! Baoshuo's OI Blog (ecbaba2) | Baoshuo ( https://baoshuo.ren ) */
 @charset "UTF-8";
 .dot {
   margin: 0 0.4em;
@@ -34,9 +34,11 @@
   display: block !important;
 }
 
+:root,
 [data-color-mode=auto][data-light-theme=light] {
   color-scheme: light;
 }
+:root,
 [data-color-mode=auto][data-light-theme=light] {
   --color-canvas-default-transparent: rgba(255,255,255,0);
   --color-page-header-bg: #f6f8fa;
