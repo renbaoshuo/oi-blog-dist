@@ -1,6 +1,6 @@
-importScripts("https://static.cdn.baoshuo.ren/packages/workbox-cdn@6.5.3/workbox-sw.js");
+importScripts("https://static.cdn.baoshuo.ren/packages/workbox-cdn@6.5.4/workbox-sw.js");
 workbox.setConfig({
-    modulePathPrefix: "https://static.cdn.baoshuo.ren/packages/workbox-cdn@6.5.3/"
+    modulePathPrefix: "https://static.cdn.baoshuo.ren/packages/workbox-cdn@6.5.4/"
 });
 var core = workbox.core, precaching = workbox.precaching, routing = workbox.routing, strategies = workbox.strategies, expiration = workbox.expiration, cacheableResponse = workbox.cacheableResponse, backgroundSync = workbox.backgroundSync;
 var CacheFirst = strategies.CacheFirst, NetworkFirst = strategies.NetworkFirst, NetworkOnly = strategies.NetworkOnly, StaleWhileRevalidate = strategies.StaleWhileRevalidate;

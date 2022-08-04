@@ -3,6 +3,7 @@ https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/bi-graph/
 https://oi.baoshuo.ren/bzoj-4127/
 https://oi.baoshuo.ren/s2oj-45/
 https://oi.baoshuo.ren/s2oj-1486/
@@ -158,6 +159,9 @@ https://oi.baoshuo.ren/tags/%E9%9B%86%E8%AE%AD/
 https://oi.baoshuo.ren/tags/AtCoder/
 https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/
 https://oi.baoshuo.ren/tags/%E5%8F%8D%E6%82%94%E8%B4%AA%E5%BF%83/
+https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/
+https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/page/2/
+https://oi.baoshuo.ren/tags/%E4%BA%8C%E5%88%86%E5%9B%BE/
 https://oi.baoshuo.ren/tags/BZOJ/
 https://oi.baoshuo.ren/tags/JSOI/
 https://oi.baoshuo.ren/tags/2008/
@@ -174,8 +178,6 @@ https://oi.baoshuo.ren/tags/AcWing/
 https://oi.baoshuo.ren/tags/AcWing/page/2/
 https://oi.baoshuo.ren/tags/USACO/
 https://oi.baoshuo.ren/tags/2006/
-https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/
-https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/page/2/
 https://oi.baoshuo.ren/tags/Tarjan/
 https://oi.baoshuo.ren/tags/%E5%8F%8C%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/
 https://oi.baoshuo.ren/tags/POI/
