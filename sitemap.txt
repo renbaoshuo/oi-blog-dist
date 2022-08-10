@@ -244,10 +244,10 @@ https://oi.baoshuo.ren/tags/2022/
 https://oi.baoshuo.ren/tags/SCOI/
 https://oi.baoshuo.ren/tags/NOI/
 https://oi.baoshuo.ren/tags/2015/
-https://oi.baoshuo.ren/tags/2016/
-https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/
 https://oi.baoshuo.ren/tags/BalticOI/
 https://oi.baoshuo.ren/tags/2011/
+https://oi.baoshuo.ren/tags/2016/
+https://oi.baoshuo.ren/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/
 https://oi.baoshuo.ren/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/
 https://oi.baoshuo.ren/tags/Dijkstra/
 https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/
@@ -278,8 +278,8 @@ https://oi.baoshuo.ren/tags/%E5%8F%8C%E6%8C%87%E9%92%88/
 https://oi.baoshuo.ren/tags/TJOI/
 https://oi.baoshuo.ren/tags/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F/
 https://oi.baoshuo.ren/tags/Manacher/
-https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/
 https://oi.baoshuo.ren/tags/%E6%8E%A8%E5%BC%8F%E5%AD%90/
+https://oi.baoshuo.ren/tags/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91/
 https://oi.baoshuo.ren/tags/2019/
 https://oi.baoshuo.ren/tags/CSP-S/
 https://oi.baoshuo.ren/tags/%E7%9C%81%E9%80%89/
