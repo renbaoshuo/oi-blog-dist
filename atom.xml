@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-08-04T14:24:40.000Z</updated>
+  <updated>2022-08-10T00:29:37.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BZOJ 1901 - Dynamic Rankings</title>
+    <link href="https://oi.baoshuo.ren/bzoj-1901/"/>
+    <id>https://oi.baoshuo.ren/bzoj-1901/</id>
+    <published>2022-08-10T08:25:47.000Z</published>
+    <updated>2022-08-10T00:29:37.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="BZOJ" scheme="https://oi.baoshuo.ren/tags/BZOJ/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="整体二分" scheme="https://oi.baoshuo.ren/tags/%E6%95%B4%E4%BD%93%E4%BA%8C%E5%88%86/"/>
+    
+  </entry>
   
   <entry>
     <title>二分图学习笔记</title>
@@ -473,28 +494,6 @@
     <category term="字符串" scheme="https://oi.baoshuo.ren/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
     <category term="国家集训队" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F/"/>
-    
-    <category term="Manacher" scheme="https://oi.baoshuo.ren/tags/Manacher/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Manacher 算法学习笔记</title>
-    <link href="https://oi.baoshuo.ren/manacher/"/>
-    <id>https://oi.baoshuo.ren/manacher/</id>
-    <published>2022-06-27T15:09:52.000Z</published>
-    <updated>2022-06-27T07:10:03.000Z</updated>
-    
-    
-    <summary type="html">Manacher 算法可以以 O(n) 的时间复杂度求出一个字符串以每个位置为中心的最长回文子串。
-</summary>
-    
-    
-    
-    <category term="笔记" scheme="https://oi.baoshuo.ren/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="字符串" scheme="https://oi.baoshuo.ren/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
     <category term="Manacher" scheme="https://oi.baoshuo.ren/tags/Manacher/"/>
     
