@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-08-13T02:24:04.000Z</updated>
+  <updated>2022-08-16T06:10:47.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「CEOI2008」order</title>
+    <link href="https://oi.baoshuo.ren/ceoi2008-order/"/>
+    <id>https://oi.baoshuo.ren/ceoi2008-order/</id>
+    <published>2022-08-16T14:10:04.000Z</published>
+    <updated>2022-08-16T06:10:47.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="图论" scheme="https://oi.baoshuo.ren/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="网络流" scheme="https://oi.baoshuo.ren/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
+    
+    <category term="2008" scheme="https://oi.baoshuo.ren/tags/2008/"/>
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="CEOI" scheme="https://oi.baoshuo.ren/tags/CEOI/"/>
+    
+  </entry>
   
   <entry>
     <title>上下界网络流学习笔记</title>
@@ -469,35 +494,6 @@
     <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
     
     <category term="bitset" scheme="https://oi.baoshuo.ren/tags/bitset/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「CEOI2017」Mousetrap</title>
-    <link href="https://oi.baoshuo.ren/ceoi2017-trap/"/>
-    <id>https://oi.baoshuo.ren/ceoi2017-trap/</id>
-    <published>2022-07-03T14:54:22.000Z</published>
-    <updated>2022-07-03T06:59:57.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="动态规划" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
-    
-    <category term="CEOI" scheme="https://oi.baoshuo.ren/tags/CEOI/"/>
-    
-    <category term="2017" scheme="https://oi.baoshuo.ren/tags/2017/"/>
-    
-    <category term="树形 DP" scheme="https://oi.baoshuo.ren/tags/%E6%A0%91%E5%BD%A2-DP/"/>
-    
-    <category term="二分" scheme="https://oi.baoshuo.ren/tags/%E4%BA%8C%E5%88%86/"/>
     
   </entry>
   

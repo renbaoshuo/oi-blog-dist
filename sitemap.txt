@@ -3,6 +3,7 @@ https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/ceoi2008-order/
 https://oi.baoshuo.ren/bound-flow/
 https://oi.baoshuo.ren/bzoj-1901/
 https://oi.baoshuo.ren/bi-graph/
@@ -115,6 +116,7 @@ https://oi.baoshuo.ren/archives/page/4/
 https://oi.baoshuo.ren/archives/page/5/
 https://oi.baoshuo.ren/archives/page/6/
 https://oi.baoshuo.ren/archives/page/7/
+https://oi.baoshuo.ren/archives/page/8/
 https://oi.baoshuo.ren/categories/%E8%AE%A1%E5%88%92/
 https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/
 https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/page/2/
@@ -147,6 +149,7 @@ https://oi.baoshuo.ren/page/12/
 https://oi.baoshuo.ren/page/13/
 https://oi.baoshuo.ren/page/14/
 https://oi.baoshuo.ren/page/15/
+https://oi.baoshuo.ren/page/16/
 https://oi.baoshuo.ren/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/
 https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/
 https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/page/2/
@@ -201,9 +204,9 @@ https://oi.baoshuo.ren/tags/%E6%A0%91%E9%93%BE%E5%89%96%E5%88%86/
 https://oi.baoshuo.ren/tags/%E6%9D%82%E9%A1%B9/
 https://oi.baoshuo.ren/tags/%E7%A6%BB%E7%BA%BF/
 https://oi.baoshuo.ren/tags/CDQ-%E5%88%86%E6%B2%BB/
+https://oi.baoshuo.ren/tags/CEOI/
 https://oi.baoshuo.ren/tags/LibreOJ/
 https://oi.baoshuo.ren/tags/LibreOJ/page/2/
-https://oi.baoshuo.ren/tags/CEOI/
 https://oi.baoshuo.ren/tags/2017/
 https://oi.baoshuo.ren/tags/%E6%A0%91%E5%BD%A2-DP/
 https://oi.baoshuo.ren/tags/%E4%BA%8C%E5%88%86/
