@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-08-16T09:20:49.000Z</updated>
+  <updated>2022-08-16T12:18:11.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Codeforces - 444C. DZY Loves Colors</title>
+    <link href="https://oi.baoshuo.ren/codeforces-444c/"/>
+    <id>https://oi.baoshuo.ren/codeforces-444c/</id>
+    <published>2022-08-16T20:09:44.000Z</published>
+    <updated>2022-08-16T12:18:11.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="数据结构" scheme="https://oi.baoshuo.ren/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="线段树" scheme="https://oi.baoshuo.ren/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+    <category term="Codeforces" scheme="https://oi.baoshuo.ren/tags/Codeforces/"/>
+    
+  </entry>
   
   <entry>
     <title>「CEOI2008」order</title>
@@ -475,25 +496,6 @@
     <category term="JOI" scheme="https://oi.baoshuo.ren/tags/JOI/"/>
     
     <category term="2022" scheme="https://oi.baoshuo.ren/tags/2022/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>洛谷 - P1441 砝码称重</title>
-    <link href="https://oi.baoshuo.ren/luogu-p1441/"/>
-    <id>https://oi.baoshuo.ren/luogu-p1441/</id>
-    <published>2022-07-03T16:53:10.000Z</published>
-    <updated>2022-07-03T08:53:23.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="bitset" scheme="https://oi.baoshuo.ren/tags/bitset/"/>
     
   </entry>
   

@@ -3,6 +3,7 @@ https://oi.baoshuo.ren/404.html
 https://oi.baoshuo.ren/about/
 https://oi.baoshuo.ren/common-mistakes/
 https://oi.baoshuo.ren/friends/
+https://oi.baoshuo.ren/codeforces-444c/
 https://oi.baoshuo.ren/ceoi2008-order/
 https://oi.baoshuo.ren/bound-flow/
 https://oi.baoshuo.ren/bzoj-1901/
