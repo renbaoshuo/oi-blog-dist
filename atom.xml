@@ -6,7 +6,7 @@
   <link href="https://oi.baoshuo.ren/atom.xml" rel="self"/>
   
   <link href="https://oi.baoshuo.ren/"/>
-  <updated>2022-08-16T12:18:11.000Z</updated>
+  <updated>2022-08-17T06:56:49.000Z</updated>
   <id>https://oi.baoshuo.ren/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「USACO 2012 March (Silver)」Flowerpot</title>
+    <link href="https://oi.baoshuo.ren/usaco12mar-fpot/"/>
+    <id>https://oi.baoshuo.ren/usaco12mar-fpot/</id>
+    <published>2022-08-17T14:55:39.000Z</published>
+    <updated>2022-08-17T06:56:49.000Z</updated>
+    
+    
+    
+    
+    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="USACO" scheme="https://oi.baoshuo.ren/tags/USACO/"/>
+    
+    <category term="STL" scheme="https://oi.baoshuo.ren/tags/STL/"/>
+    
+    <category term="2012" scheme="https://oi.baoshuo.ren/tags/2012/"/>
+    
+  </entry>
   
   <entry>
     <title>Codeforces - 444C. DZY Loves Colors</title>
@@ -469,33 +492,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>「JOI 2022 Final」Let&#39;s Win the Election</title>
-    <link href="https://oi.baoshuo.ren/joi-2022-election/"/>
-    <id>https://oi.baoshuo.ren/joi-2022-election/</id>
-    <published>2022-07-04T22:26:58.000Z</published>
-    <updated>2022-07-04T14:27:29.000Z</updated>
-    
-    
-    
-    
-    <category term="题解" scheme="https://oi.baoshuo.ren/categories/%E9%A2%98%E8%A7%A3/"/>
-    
-    
-    <category term="动态规划" scheme="https://oi.baoshuo.ren/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
-    
-    <category term="贪心" scheme="https://oi.baoshuo.ren/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="洛谷" scheme="https://oi.baoshuo.ren/tags/%E6%B4%9B%E8%B0%B7/"/>
-    
-    <category term="LibreOJ" scheme="https://oi.baoshuo.ren/tags/LibreOJ/"/>
-    
-    <category term="JOI" scheme="https://oi.baoshuo.ren/tags/JOI/"/>
-    
-    <category term="2022" scheme="https://oi.baoshuo.ren/tags/2022/"/>
     
   </entry>
   
